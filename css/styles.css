@@ -69,7 +69,7 @@ body {
 img { max-width: 100%; display: block; }
 button { font: inherit; color: inherit; cursor: pointer; }
 a { color: var(--celeste); }
-::selection { background: var(--lima); color: var(--petroleo); }
+::selection { background: rgba(185, 211, 57, .4); }
 :focus-visible { outline: 3px solid var(--celeste); outline-offset: 2px; border-radius: 4px; }
 
 /* ---------- Barra de progreso ---------- */
@@ -2011,3 +2011,8 @@ button.uik__st:hover { border-color: var(--celeste); }
   .ref-table--stack td::before { content: attr(data-label); font-weight: 600; color: var(--petroleo); font-size: 12px; }
   .ref-table--stack td:first-child { font-weight: 700; color: var(--petroleo); }
 }
+
+/* Comparador de tratamiento: la foto se posiciona sobre la capa (Safari en iPhone no resolvía el alto en % dentro de la grilla y la foto no aparecía) */
+.compare .layer img { position: absolute; bottom: 0; left: 50%; transform: translateX(-50%); height: 92%; width: auto; max-width: none; }
+/* Selección de texto: lima translúcido que deja ver el color original de cada palabra */
+
