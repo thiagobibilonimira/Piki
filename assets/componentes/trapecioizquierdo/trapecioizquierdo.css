@@ -1,0 +1,101 @@
+/* trapecioizquierdo — exportado de Figma ("Piki") */
+
+.trapecioizquierdo--predeterminado .trapecioizquierdo__ellipse-2 {
+  position: absolute;
+  left: -1px;
+  top: -1px;
+  width: 40px;
+  height: 40px;
+}
+
+.trapecioizquierdo--predeterminado .trapecioizquierdo__ellipse-3 {
+  position: absolute;
+  left: 6px;
+  top: 6px;
+  width: 26px;
+  height: 26px;
+  background-color: #000000;
+  border-radius: 50%;
+}
+
+.trapecioizquierdo--predeterminado {
+  position: relative;
+  flex-shrink: 0;
+  width: 38px;
+  height: 38px;
+}
+
+.trapecioizquierdo--verde .trapecioizquierdo__ellipse-2 {
+  position: absolute;
+  left: -1px;
+  top: -1px;
+  width: 40px;
+  height: 40px;
+}
+
+.trapecioizquierdo--verde .trapecioizquierdo__ellipse-3 {
+  position: absolute;
+  left: 6px;
+  top: 6px;
+  width: 26px;
+  height: 26px;
+  background-color: #649d00;
+  border-radius: 50%;
+}
+
+.trapecioizquierdo--verde {
+  position: relative;
+  flex-shrink: 0;
+  width: 38px;
+  height: 38px;
+}
+
+.trapecioizquierdo--naranja .trapecioizquierdo__ellipse-2 {
+  position: absolute;
+  left: -1px;
+  top: -1px;
+  width: 40px;
+  height: 40px;
+}
+
+.trapecioizquierdo--naranja .trapecioizquierdo__ellipse-3 {
+  position: absolute;
+  left: 6px;
+  top: 6px;
+  width: 26px;
+  height: 26px;
+  background-color: #079ab3;
+  border-radius: 50%;
+}
+
+.trapecioizquierdo--naranja {
+  position: relative;
+  flex-shrink: 0;
+  width: 38px;
+  height: 38px;
+}
+
+.trapecioizquierdo--rojo .trapecioizquierdo__ellipse-2 {
+  position: absolute;
+  left: -1px;
+  top: -1px;
+  width: 40px;
+  height: 40px;
+}
+
+.trapecioizquierdo--rojo .trapecioizquierdo__ellipse-3 {
+  position: absolute;
+  left: 6px;
+  top: 6px;
+  width: 26px;
+  height: 26px;
+  background-color: #004753;
+  border-radius: 50%;
+}
+
+.trapecioizquierdo--rojo {
+  position: relative;
+  flex-shrink: 0;
+  width: 38px;
+  height: 38px;
+}

@@ -1,0 +1,101 @@
+/* bicepsderecho — exportado de Figma ("Piki") */
+
+.bicepsderecho--predeterminado .bicepsderecho__ellipse-2 {
+  position: absolute;
+  left: -1px;
+  top: -1px;
+  width: 40px;
+  height: 40px;
+}
+
+.bicepsderecho--predeterminado .bicepsderecho__ellipse-3 {
+  position: absolute;
+  left: 6px;
+  top: 6px;
+  width: 26px;
+  height: 26px;
+  background-color: #000000;
+  border-radius: 50%;
+}
+
+.bicepsderecho--predeterminado {
+  position: relative;
+  flex-shrink: 0;
+  width: 38px;
+  height: 38px;
+}
+
+.bicepsderecho--verde .bicepsderecho__ellipse-2 {
+  position: absolute;
+  left: -1px;
+  top: -1px;
+  width: 40px;
+  height: 40px;
+}
+
+.bicepsderecho--verde .bicepsderecho__ellipse-3 {
+  position: absolute;
+  left: 6px;
+  top: 6px;
+  width: 26px;
+  height: 26px;
+  background-color: #649d00;
+  border-radius: 50%;
+}
+
+.bicepsderecho--verde {
+  position: relative;
+  flex-shrink: 0;
+  width: 38px;
+  height: 38px;
+}
+
+.bicepsderecho--naranja .bicepsderecho__ellipse-2 {
+  position: absolute;
+  left: -1px;
+  top: -1px;
+  width: 40px;
+  height: 40px;
+}
+
+.bicepsderecho--naranja .bicepsderecho__ellipse-3 {
+  position: absolute;
+  left: 6px;
+  top: 6px;
+  width: 26px;
+  height: 26px;
+  background-color: #079ab3;
+  border-radius: 50%;
+}
+
+.bicepsderecho--naranja {
+  position: relative;
+  flex-shrink: 0;
+  width: 38px;
+  height: 38px;
+}
+
+.bicepsderecho--rojo .bicepsderecho__ellipse-2 {
+  position: absolute;
+  left: -1px;
+  top: -1px;
+  width: 40px;
+  height: 40px;
+}
+
+.bicepsderecho--rojo .bicepsderecho__ellipse-3 {
+  position: absolute;
+  left: 6px;
+  top: 6px;
+  width: 26px;
+  height: 26px;
+  background-color: #004753;
+  border-radius: 50%;
+}
+
+.bicepsderecho--rojo {
+  position: relative;
+  flex-shrink: 0;
+  width: 38px;
+  height: 38px;
+}

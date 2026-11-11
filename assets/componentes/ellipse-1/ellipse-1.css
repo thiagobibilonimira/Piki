@@ -1,0 +1,61 @@
+/* Ellipse 1 — exportado de Figma ("Piki") */
+
+.ellipse-1--predeterminado .ellipse-1__ellipse-1 {
+  position: absolute;
+  left: -1.02px;
+  top: -0.52px;
+  width: 91.02px;
+  height: 90.03px;
+}
+
+.ellipse-1--predeterminado {
+  position: relative;
+  flex-shrink: 0;
+  width: 88px;
+  height: 88px;
+}
+
+.ellipse-1--variante-2 .ellipse-1__ellipse-1 {
+  position: absolute;
+  left: -0.52px;
+  top: -2px;
+  width: 90.03px;
+  height: 91.02px;
+}
+
+.ellipse-1--variante-2 {
+  position: relative;
+  flex-shrink: 0;
+  width: 88px;
+  height: 88px;
+}
+
+.ellipse-1--variante-3 .ellipse-1__ellipse-1 {
+  position: absolute;
+  left: -2px;
+  top: -1.51px;
+  width: 91.02px;
+  height: 90.03px;
+}
+
+.ellipse-1--variante-3 {
+  position: relative;
+  flex-shrink: 0;
+  width: 88px;
+  height: 88px;
+}
+
+.ellipse-1--variante-4 .ellipse-1__ellipse-1 {
+  position: absolute;
+  left: -1.51px;
+  top: -1.02px;
+  width: 90.03px;
+  height: 91.02px;
+}
+
+.ellipse-1--variante-4 {
+  position: relative;
+  flex-shrink: 0;
+  width: 88px;
+  height: 88px;
+}

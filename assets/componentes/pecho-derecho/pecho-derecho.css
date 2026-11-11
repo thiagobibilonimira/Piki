@@ -1,0 +1,101 @@
+/* pecho derecho — exportado de Figma ("Piki") */
+
+.pecho-derecho--predeterminado .pecho-derecho__ellipse-2 {
+  position: absolute;
+  left: -1px;
+  top: -1px;
+  width: 40px;
+  height: 40px;
+}
+
+.pecho-derecho--predeterminado .pecho-derecho__ellipse-3 {
+  position: absolute;
+  left: 6px;
+  top: 6px;
+  width: 26px;
+  height: 26px;
+  background-color: #000000;
+  border-radius: 50%;
+}
+
+.pecho-derecho--predeterminado {
+  position: relative;
+  flex-shrink: 0;
+  width: 38px;
+  height: 38px;
+}
+
+.pecho-derecho--verde .pecho-derecho__ellipse-2 {
+  position: absolute;
+  left: -1px;
+  top: -1px;
+  width: 40px;
+  height: 40px;
+}
+
+.pecho-derecho--verde .pecho-derecho__ellipse-3 {
+  position: absolute;
+  left: 6px;
+  top: 6px;
+  width: 26px;
+  height: 26px;
+  background-color: #649d00;
+  border-radius: 50%;
+}
+
+.pecho-derecho--verde {
+  position: relative;
+  flex-shrink: 0;
+  width: 38px;
+  height: 38px;
+}
+
+.pecho-derecho--naranja .pecho-derecho__ellipse-2 {
+  position: absolute;
+  left: -1px;
+  top: -1px;
+  width: 40px;
+  height: 40px;
+}
+
+.pecho-derecho--naranja .pecho-derecho__ellipse-3 {
+  position: absolute;
+  left: 6px;
+  top: 6px;
+  width: 26px;
+  height: 26px;
+  background-color: #079ab3;
+  border-radius: 50%;
+}
+
+.pecho-derecho--naranja {
+  position: relative;
+  flex-shrink: 0;
+  width: 38px;
+  height: 38px;
+}
+
+.pecho-derecho--rojo .pecho-derecho__ellipse-2 {
+  position: absolute;
+  left: -1px;
+  top: -1px;
+  width: 40px;
+  height: 40px;
+}
+
+.pecho-derecho--rojo .pecho-derecho__ellipse-3 {
+  position: absolute;
+  left: 6px;
+  top: 6px;
+  width: 26px;
+  height: 26px;
+  background-color: #004753;
+  border-radius: 50%;
+}
+
+.pecho-derecho--rojo {
+  position: relative;
+  flex-shrink: 0;
+  width: 38px;
+  height: 38px;
+}

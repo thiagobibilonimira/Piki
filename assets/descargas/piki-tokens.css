@@ -1,0 +1,45 @@
+/* Piki · tokens de diseño v1.0 */
+:root {
+  --piki-petroleo: #004856;
+  --piki-celeste: #009DB6;
+  --piki-lima: #B9D339;
+  --piki-verde: #4FA000;
+  --piki-crema: #F8F6F0;
+  --piki-carbon: #252525;
+  --piki-piedra: #8B877A;
+  --piki-arena: #BCB9AD;
+  --piki-niebla: #DDDCD8;
+  --piki-blanco: #FFFFFF;
+  --piki-abismo: #00333E;
+  --piki-agua: #4FD1E6;
+  --piki-oliva: #6D7A00;
+  --piki-game-fondo: #04131F;
+  --piki-game-panel: #0D1C30;
+  --piki-game-accion: #22F0BF;
+  --piki-game-correcto: #3DDC97;
+  --piki-game-error: #FF4D5E;
+  --piki-game-alerta: #FF8A3D;
+  --piki-game-nutricion: #FFD93D;
+  --piki-game-calma: #B388FF;
+  --piki-font: "Poppins", system-ui, sans-serif;
+  --piki-display: "Poppins", sans-serif; --piki-display-weight: 800; --piki-display-style: italic;
+  --piki-h1: 700 32px/1.2 var(--piki-font);
+  --piki-h2: 600 28px/1.2 var(--piki-font);
+  --piki-h3: 500 24px/1.25 var(--piki-font);
+  --piki-h4: 500 20px/1.3 var(--piki-font);
+  --piki-h5: 600 16px/1.35 var(--piki-font);
+  --piki-h6: 700 14px/1.35 var(--piki-font);
+  --piki-h7: 600 12px/1.35 var(--piki-font);
+  --piki-p1: 400 18px/1.55 var(--piki-font);
+  --piki-p2: 400 16px/1.5 var(--piki-font);
+  --piki-p3: 500 14px/1.45 var(--piki-font);
+  --piki-space-base: 10px;
+  --piki-space-gutter: 20px;
+  --piki-space-margin: 20px;
+  --piki-radius-base: 10px;
+  --piki-radius-card: 20px;
+  --piki-radius-pill: 999px;
+  --piki-motion-enter: cubic-bezier(.22,1,.36,1);
+  --piki-motion-transition: cubic-bezier(.65,0,.35,1);
+  --piki-motion-feedback: cubic-bezier(.34,1.56,.64,1);
+}

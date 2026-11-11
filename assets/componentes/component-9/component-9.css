@@ -1,0 +1,31 @@
+/* Component 9 — exportado de Figma ("Piki") */
+
+.component-9--predeterminado .component-9__vector {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 39px;
+  height: 44px;
+}
+
+.component-9--predeterminado {
+  position: relative;
+  flex-shrink: 0;
+  width: 39px;
+  height: 44px;
+}
+
+.component-9--variante-2 .component-9__vector {
+  position: absolute;
+  left: 1px;
+  top: 0px;
+  width: 38px;
+  height: 44px;
+}
+
+.component-9--variante-2 {
+  position: relative;
+  flex-shrink: 0;
+  width: 39px;
+  height: 44px;
+}

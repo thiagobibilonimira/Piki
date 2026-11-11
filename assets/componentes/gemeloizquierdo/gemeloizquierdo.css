@@ -1,0 +1,101 @@
+/* gemeloizquierdo — exportado de Figma ("Piki") */
+
+.gemeloizquierdo--predeterminado .gemeloizquierdo__ellipse-2 {
+  position: absolute;
+  left: -1px;
+  top: -1px;
+  width: 40px;
+  height: 40px;
+}
+
+.gemeloizquierdo--predeterminado .gemeloizquierdo__ellipse-3 {
+  position: absolute;
+  left: 6px;
+  top: 6px;
+  width: 26px;
+  height: 26px;
+  background-color: #000000;
+  border-radius: 50%;
+}
+
+.gemeloizquierdo--predeterminado {
+  position: relative;
+  flex-shrink: 0;
+  width: 38px;
+  height: 38px;
+}
+
+.gemeloizquierdo--verde .gemeloizquierdo__ellipse-2 {
+  position: absolute;
+  left: -1px;
+  top: -1px;
+  width: 40px;
+  height: 40px;
+}
+
+.gemeloizquierdo--verde .gemeloizquierdo__ellipse-3 {
+  position: absolute;
+  left: 6px;
+  top: 6px;
+  width: 26px;
+  height: 26px;
+  background-color: #649d00;
+  border-radius: 50%;
+}
+
+.gemeloizquierdo--verde {
+  position: relative;
+  flex-shrink: 0;
+  width: 38px;
+  height: 38px;
+}
+
+.gemeloizquierdo--naranja .gemeloizquierdo__ellipse-2 {
+  position: absolute;
+  left: -1px;
+  top: -1px;
+  width: 40px;
+  height: 40px;
+}
+
+.gemeloizquierdo--naranja .gemeloizquierdo__ellipse-3 {
+  position: absolute;
+  left: 6px;
+  top: 6px;
+  width: 26px;
+  height: 26px;
+  background-color: #079ab3;
+  border-radius: 50%;
+}
+
+.gemeloizquierdo--naranja {
+  position: relative;
+  flex-shrink: 0;
+  width: 38px;
+  height: 38px;
+}
+
+.gemeloizquierdo--rojo .gemeloizquierdo__ellipse-2 {
+  position: absolute;
+  left: -1px;
+  top: -1px;
+  width: 40px;
+  height: 40px;
+}
+
+.gemeloizquierdo--rojo .gemeloizquierdo__ellipse-3 {
+  position: absolute;
+  left: 6px;
+  top: 6px;
+  width: 26px;
+  height: 26px;
+  background-color: #004753;
+  border-radius: 50%;
+}
+
+.gemeloizquierdo--rojo {
+  position: relative;
+  flex-shrink: 0;
+  width: 38px;
+  height: 38px;
+}

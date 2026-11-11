@@ -1,0 +1,380 @@
+/* Component 2 — exportado de Figma ("Piki") */
+
+.component-2--predeterminado .component-2__rectangle-33 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 60px;
+  height: 60px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: 0px;
+}
+
+.component-2--predeterminado .component-2__vector {
+  position: absolute;
+  left: -1.15px;
+  top: -1.15px;
+  width: 28.3px;
+  height: 28.3px;
+}
+
+.component-2--predeterminado .component-2__vector-2 {
+  position: absolute;
+  left: 6.65px;
+  top: 7.88px;
+  width: 12.7px;
+  height: 2.43px;
+}
+
+.component-2--predeterminado .component-2__vector-3 {
+  position: absolute;
+  left: 6.65px;
+  top: 13.15px;
+  width: 12.7px;
+  height: 7.5px;
+}
+
+.component-2--predeterminado .component-2__group {
+  position: absolute;
+  left: 17px;
+  top: 7px;
+  width: 26px;
+  height: 26px;
+}
+
+.component-2--predeterminado .component-2__vector-4 {
+  position: absolute;
+  left: -1.15px;
+  top: -1.15px;
+  width: 28.3px;
+  height: 28.3px;
+}
+
+.component-2--predeterminado .component-2__vector-5 {
+  position: absolute;
+  left: 6.65px;
+  top: 7.88px;
+  width: 12.7px;
+  height: 2.43px;
+}
+
+.component-2--predeterminado .component-2__vector-6 {
+  position: absolute;
+  left: 6.65px;
+  top: 14.45px;
+  width: 12.7px;
+  height: 6.2px;
+}
+
+.component-2--predeterminado .component-2__group-2 {
+  position: absolute;
+  left: 17px;
+  top: 7px;
+  width: 26px;
+  height: 26px;
+}
+
+.component-2--predeterminado .component-2__regular {
+  position: absolute;
+  left: 0px;
+  top: 35px;
+  width: 60px;
+  height: 21px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 22px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-2--predeterminado .component-2__vector-7 {
+  position: absolute;
+  left: -1.15px;
+  top: -1.15px;
+  width: 28.3px;
+  height: 28.3px;
+}
+
+.component-2--predeterminado .component-2__vector-8 {
+  position: absolute;
+  left: 6.65px;
+  top: 7.88px;
+  width: 12.7px;
+  height: 8.86px;
+}
+
+.component-2--predeterminado .component-2__group-3 {
+  position: absolute;
+  left: 17px;
+  top: 7px;
+  width: 26px;
+  height: 26px;
+}
+
+.component-2--predeterminado .component-2__vector-9 {
+  position: absolute;
+  left: -1.15px;
+  top: -1.15px;
+  width: 28.3px;
+  height: 28.3px;
+}
+
+.component-2--predeterminado .component-2__vector-10 {
+  position: absolute;
+  left: 6.65px;
+  top: 7.88px;
+  width: 12.7px;
+  height: 2.43px;
+}
+
+.component-2--predeterminado .component-2__vector-11 {
+  position: absolute;
+  left: 6.65px;
+  top: 13.15px;
+  width: 12.7px;
+  height: 6.2px;
+}
+
+.component-2--predeterminado .component-2__group-4 {
+  position: absolute;
+  left: 17px;
+  top: 7px;
+  width: 26px;
+  height: 26px;
+}
+
+.component-2--predeterminado .component-2__vector-12 {
+  position: absolute;
+  left: -1.15px;
+  top: -1.15px;
+  width: 28.3px;
+  height: 28.3px;
+}
+
+.component-2--predeterminado .component-2__vector-13 {
+  position: absolute;
+  left: 6.65px;
+  top: 7.88px;
+  width: 12.7px;
+  height: 2.43px;
+}
+
+.component-2--predeterminado .component-2__vector-14 {
+  position: absolute;
+  left: 6.65px;
+  top: 14.45px;
+  width: 12.7px;
+  height: 7.5px;
+}
+
+.component-2--predeterminado .component-2__group-5 {
+  position: absolute;
+  left: 17px;
+  top: 7px;
+  width: 26px;
+  height: 26px;
+}
+
+.component-2--predeterminado {
+  position: relative;
+  flex-shrink: 0;
+  width: 60px;
+  height: 60px;
+}
+
+.component-2--variante-2 .component-2__rectangle-33 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 60px;
+  height: 60px;
+  background-color: #004753;
+  border-radius: 10px;
+  outline: 2px solid #004753;
+  outline-offset: 0px;
+}
+
+.component-2--variante-2 .component-2__vector {
+  position: absolute;
+  left: -1.15px;
+  top: -1.15px;
+  width: 28.3px;
+  height: 28.3px;
+}
+
+.component-2--variante-2 .component-2__vector-2 {
+  position: absolute;
+  left: 6.65px;
+  top: 7.88px;
+  width: 12.7px;
+  height: 2.43px;
+}
+
+.component-2--variante-2 .component-2__vector-3 {
+  position: absolute;
+  left: 6.65px;
+  top: 13.15px;
+  width: 12.7px;
+  height: 7.5px;
+}
+
+.component-2--variante-2 .component-2__group {
+  position: absolute;
+  left: 17px;
+  top: 7px;
+  width: 26px;
+  height: 26px;
+}
+
+.component-2--variante-2 .component-2__vector-4 {
+  position: absolute;
+  left: -1.15px;
+  top: -1.15px;
+  width: 28.3px;
+  height: 28.3px;
+}
+
+.component-2--variante-2 .component-2__vector-5 {
+  position: absolute;
+  left: 6.65px;
+  top: 7.88px;
+  width: 12.7px;
+  height: 2.43px;
+}
+
+.component-2--variante-2 .component-2__vector-6 {
+  position: absolute;
+  left: 6.65px;
+  top: 14.45px;
+  width: 12.7px;
+  height: 6.2px;
+}
+
+.component-2--variante-2 .component-2__group-2 {
+  position: absolute;
+  left: 17px;
+  top: 7px;
+  width: 26px;
+  height: 26px;
+}
+
+.component-2--variante-2 .component-2__regular {
+  position: absolute;
+  left: 0px;
+  top: 35px;
+  width: 60px;
+  height: 21px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 22px;
+  color: #f8f6f0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-2--variante-2 .component-2__vector-7 {
+  position: absolute;
+  left: -1.15px;
+  top: -1.15px;
+  width: 28.3px;
+  height: 28.3px;
+}
+
+.component-2--variante-2 .component-2__vector-8 {
+  position: absolute;
+  left: 6.65px;
+  top: 7.88px;
+  width: 12.7px;
+  height: 8.86px;
+}
+
+.component-2--variante-2 .component-2__group-3 {
+  position: absolute;
+  left: 17px;
+  top: 7px;
+  width: 26px;
+  height: 26px;
+}
+
+.component-2--variante-2 .component-2__vector-9 {
+  position: absolute;
+  left: -1.15px;
+  top: -1.15px;
+  width: 28.3px;
+  height: 28.3px;
+}
+
+.component-2--variante-2 .component-2__vector-10 {
+  position: absolute;
+  left: 6.65px;
+  top: 7.88px;
+  width: 12.7px;
+  height: 2.43px;
+}
+
+.component-2--variante-2 .component-2__vector-11 {
+  position: absolute;
+  left: 6.65px;
+  top: 13.15px;
+  width: 12.7px;
+  height: 6.2px;
+}
+
+.component-2--variante-2 .component-2__group-4 {
+  position: absolute;
+  left: 17px;
+  top: 7px;
+  width: 26px;
+  height: 26px;
+}
+
+.component-2--variante-2 .component-2__vector-12 {
+  position: absolute;
+  left: -1.15px;
+  top: -1.15px;
+  width: 28.3px;
+  height: 28.3px;
+}
+
+.component-2--variante-2 .component-2__vector-13 {
+  position: absolute;
+  left: 6.65px;
+  top: 7.88px;
+  width: 12.7px;
+  height: 2.43px;
+}
+
+.component-2--variante-2 .component-2__vector-14 {
+  position: absolute;
+  left: 6.65px;
+  top: 14.45px;
+  width: 12.7px;
+  height: 7.5px;
+}
+
+.component-2--variante-2 .component-2__group-5 {
+  position: absolute;
+  left: 17px;
+  top: 7px;
+  width: 26px;
+  height: 26px;
+}
+
+.component-2--variante-2 {
+  position: relative;
+  flex-shrink: 0;
+  width: 60px;
+  height: 60px;
+}

@@ -1,0 +1,101 @@
+/* gemeloderecho — exportado de Figma ("Piki") */
+
+.gemeloderecho--predeterminado .gemeloderecho__ellipse-2 {
+  position: absolute;
+  left: -1px;
+  top: -1px;
+  width: 40px;
+  height: 40px;
+}
+
+.gemeloderecho--predeterminado .gemeloderecho__ellipse-3 {
+  position: absolute;
+  left: 6px;
+  top: 6px;
+  width: 26px;
+  height: 26px;
+  background-color: #000000;
+  border-radius: 50%;
+}
+
+.gemeloderecho--predeterminado {
+  position: relative;
+  flex-shrink: 0;
+  width: 38px;
+  height: 38px;
+}
+
+.gemeloderecho--verde .gemeloderecho__ellipse-2 {
+  position: absolute;
+  left: -1px;
+  top: -1px;
+  width: 40px;
+  height: 40px;
+}
+
+.gemeloderecho--verde .gemeloderecho__ellipse-3 {
+  position: absolute;
+  left: 6px;
+  top: 6px;
+  width: 26px;
+  height: 26px;
+  background-color: #649d00;
+  border-radius: 50%;
+}
+
+.gemeloderecho--verde {
+  position: relative;
+  flex-shrink: 0;
+  width: 38px;
+  height: 38px;
+}
+
+.gemeloderecho--naranja .gemeloderecho__ellipse-2 {
+  position: absolute;
+  left: -1px;
+  top: -1px;
+  width: 40px;
+  height: 40px;
+}
+
+.gemeloderecho--naranja .gemeloderecho__ellipse-3 {
+  position: absolute;
+  left: 6px;
+  top: 6px;
+  width: 26px;
+  height: 26px;
+  background-color: #079ab3;
+  border-radius: 50%;
+}
+
+.gemeloderecho--naranja {
+  position: relative;
+  flex-shrink: 0;
+  width: 38px;
+  height: 38px;
+}
+
+.gemeloderecho--rojo .gemeloderecho__ellipse-2 {
+  position: absolute;
+  left: -1px;
+  top: -1px;
+  width: 40px;
+  height: 40px;
+}
+
+.gemeloderecho--rojo .gemeloderecho__ellipse-3 {
+  position: absolute;
+  left: 6px;
+  top: 6px;
+  width: 26px;
+  height: 26px;
+  background-color: #004753;
+  border-radius: 50%;
+}
+
+.gemeloderecho--rojo {
+  position: relative;
+  flex-shrink: 0;
+  width: 38px;
+  height: 38px;
+}

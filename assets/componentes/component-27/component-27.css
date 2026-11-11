@@ -1,0 +1,151 @@
+/* Component 27 — exportado de Figma ("Piki") */
+
+.component-27--predeterminado .component-27__rectangle-25 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 362px;
+  height: 65px;
+  background-color: #dddcd8;
+  border-radius: 10px;
+}
+
+.component-27--predeterminado .component-27__veces {
+  position: absolute;
+  left: 10px;
+  top: 7px;
+  width: 277px;
+  height: 30px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+  white-space: pre-wrap;
+}
+
+.component-27--predeterminado .component-27__descripcion {
+  position: absolute;
+  left: 10px;
+  top: 37px;
+  width: 268px;
+  height: 21px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 22px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+  white-space: pre-wrap;
+}
+
+.component-27--predeterminado .component-27__ellipse-5 {
+  position: absolute;
+  left: 296.5px;
+  top: 24.5px;
+  width: 17px;
+  height: 17px;
+}
+
+.component-27--predeterminado .component-27__rectangle-124 {
+  position: absolute;
+  left: 293px;
+  top: 22px;
+  width: 39px;
+  height: 22px;
+  border-radius: 10px;
+  outline: 2px solid #8b877a;
+  outline-offset: -1px;
+}
+
+.component-27--predeterminado {
+  position: relative;
+  flex-shrink: 0;
+  width: 362px;
+  height: 65px;
+}
+
+.component-27--variante-2 .component-27__rectangle-25 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 362px;
+  height: 65px;
+  background-color: #dddcd8;
+  border-radius: 10px;
+}
+
+.component-27--variante-2 .component-27__veces {
+  position: absolute;
+  left: 10px;
+  top: 7px;
+  width: 283px;
+  height: 30px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+  white-space: pre-wrap;
+}
+
+.component-27--variante-2 .component-27__descripcion {
+  position: absolute;
+  left: 10px;
+  top: 37px;
+  width: 268px;
+  height: 21px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 22px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+  white-space: pre-wrap;
+}
+
+.component-27--variante-2 .component-27__ellipse-5 {
+  position: absolute;
+  left: 312px;
+  top: 25px;
+  width: 16px;
+  height: 16px;
+  background-color: #004753;
+  border-radius: 50%;
+}
+
+.component-27--variante-2 .component-27__rectangle-124 {
+  position: absolute;
+  left: 293px;
+  top: 22px;
+  width: 39px;
+  height: 22px;
+  border-radius: 10px;
+  outline: 2px solid #004753;
+  outline-offset: -1px;
+}
+
+.component-27--variante-2 {
+  position: relative;
+  flex-shrink: 0;
+  width: 362px;
+  height: 65px;
+}

@@ -1,0 +1,44 @@
+/* Component 28 — exportado de Figma ("Piki") */
+
+.component-28--predeterminado .component-28__rectangle-251 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 30px;
+  height: 30px;
+  border-radius: 10px;
+  outline: 1px solid #004753;
+  outline-offset: -0.5px;
+}
+
+.component-28--predeterminado {
+  position: relative;
+  flex-shrink: 0;
+  width: 30px;
+  height: 30px;
+}
+
+.component-28--variante-2 .component-28__rectangle-251 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 30px;
+  height: 30px;
+  background-color: #004753;
+  border-radius: 10px;
+}
+
+.component-28--variante-2 .component-28__vector {
+  position: absolute;
+  left: 6px;
+  top: 7px;
+  width: 19px;
+  height: 16px;
+}
+
+.component-28--variante-2 {
+  position: relative;
+  flex-shrink: 0;
+  width: 30px;
+  height: 30px;
+}

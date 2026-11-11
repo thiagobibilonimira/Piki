@@ -1,0 +1,76 @@
+/* Component 4 — exportado de Figma ("Piki") */
+
+.component-4--predeterminado .component-4__rectangle-42 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-4--predeterminado .component-4__todos {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-4--predeterminado {
+  position: relative;
+  flex-shrink: 0;
+  width: 140px;
+  height: 45px;
+}
+
+.component-4--variante-2 .component-4__rectangle-42 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+  background-color: #004753;
+  border-radius: 10px;
+  outline: 1px solid #004753;
+  outline-offset: -0.5px;
+}
+
+.component-4--variante-2 .component-4__todos {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #f8f6f0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-4--variante-2 {
+  position: relative;
+  flex-shrink: 0;
+  width: 140px;
+  height: 45px;
+}

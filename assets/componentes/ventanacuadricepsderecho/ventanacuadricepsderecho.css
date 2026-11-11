@@ -1,0 +1,206 @@
+/* ventanacuadricepsderecho — exportado de Figma ("Piki") */
+
+.ventanacuadricepsderecho .ventanacuadricepsderecho__rectangle-52 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 362px;
+  height: 159px;
+  background-color: #f8f6f0;
+  border-radius: 10px;
+  outline: 1px solid #004753;
+  outline-offset: -0.5px;
+}
+
+.ventanacuadricepsderecho .ventanacuadricepsderecho__como-sentis-esta-zona {
+  position: absolute;
+  left: 10px;
+  top: 9px;
+  width: 340px;
+  height: 30px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+  white-space: pre-wrap;
+}
+
+.ventanacuadricepsderecho .ventanacuadricepsderecho__fatiga {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 80px;
+  height: 90px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.ventanacuadricepsderecho .ventanacuadricepsderecho__ellipse-2 {
+  position: absolute;
+  left: -1px;
+  top: -1px;
+  width: 40px;
+  height: 40px;
+}
+
+.ventanacuadricepsderecho .ventanacuadricepsderecho__ellipse-3 {
+  position: absolute;
+  left: 6px;
+  top: 6px;
+  width: 26px;
+  height: 26px;
+  background-color: #649d00;
+  border-radius: 50%;
+}
+
+.ventanacuadricepsderecho .ventanacuadricepsderecho__hombroderecho {
+  position: absolute;
+  left: 21px;
+  top: 10px;
+  width: 38px;
+  height: 38px;
+}
+
+.ventanacuadricepsderecho .ventanacuadricepsderecho__group-6 {
+  position: absolute;
+  left: 10px;
+  top: 59px;
+  width: 80px;
+  height: 90px;
+}
+
+.ventanacuadricepsderecho .ventanacuadricepsderecho__molestia {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 80px;
+  height: 90px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.ventanacuadricepsderecho .ventanacuadricepsderecho__ellipse-2-2 {
+  position: absolute;
+  left: -1px;
+  top: -1px;
+  width: 40px;
+  height: 40px;
+}
+
+.ventanacuadricepsderecho .ventanacuadricepsderecho__ellipse-3-2 {
+  position: absolute;
+  left: 6px;
+  top: 6px;
+  width: 26px;
+  height: 26px;
+  background-color: #079ab3;
+  border-radius: 50%;
+}
+
+.ventanacuadricepsderecho .ventanacuadricepsderecho__hombroderecho-2 {
+  position: absolute;
+  left: 21px;
+  top: 10px;
+  width: 38px;
+  height: 38px;
+}
+
+.ventanacuadricepsderecho .ventanacuadricepsderecho__group-5 {
+  position: absolute;
+  left: 140px;
+  top: 59px;
+  width: 80px;
+  height: 90px;
+}
+
+.ventanacuadricepsderecho .ventanacuadricepsderecho__dolor {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 80px;
+  height: 90px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.ventanacuadricepsderecho .ventanacuadricepsderecho__ellipse-2-3 {
+  position: absolute;
+  left: -1px;
+  top: -1px;
+  width: 40px;
+  height: 40px;
+}
+
+.ventanacuadricepsderecho .ventanacuadricepsderecho__ellipse-3-3 {
+  position: absolute;
+  left: 6px;
+  top: 6px;
+  width: 26px;
+  height: 26px;
+  background-color: #004753;
+  border-radius: 50%;
+}
+
+.ventanacuadricepsderecho .ventanacuadricepsderecho__hombroderecho-3 {
+  position: absolute;
+  left: 21px;
+  top: 10px;
+  width: 38px;
+  height: 38px;
+}
+
+.ventanacuadricepsderecho .ventanacuadricepsderecho__group-4 {
+  position: absolute;
+  left: 270px;
+  top: 59px;
+  width: 80px;
+  height: 90px;
+}
+
+.ventanacuadricepsderecho .ventanacuadricepsderecho__union {
+  position: absolute;
+  left: 318.58px;
+  top: 12.58px;
+  width: 20.79px;
+  height: 20.55px;
+}
+
+.ventanacuadricepsderecho {
+  position: relative;
+  flex-shrink: 0;
+  width: 362px;
+  height: 159px;
+}

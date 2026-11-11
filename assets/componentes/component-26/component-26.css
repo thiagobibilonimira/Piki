@@ -1,0 +1,148 @@
+/* Component 26 — exportado de Figma ("Piki") */
+
+.component-26--predeterminado .component-26__rectangle-25 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 362px;
+  height: 65px;
+  background-color: #dddcd8;
+  border-radius: 10px;
+}
+
+.component-26--predeterminado .component-26__veces {
+  position: absolute;
+  left: 10px;
+  top: 7px;
+  width: 268px;
+  height: 30px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+  white-space: pre-wrap;
+}
+
+.component-26--predeterminado .component-26__descripcion {
+  position: absolute;
+  left: 10px;
+  top: 37px;
+  width: 268px;
+  height: 21px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 22px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+  white-space: pre-wrap;
+}
+
+.component-26--predeterminado .component-26__ellipse-4 {
+  position: absolute;
+  left: 309px;
+  top: 21px;
+  width: 24px;
+  height: 24px;
+}
+
+.component-26--predeterminado .component-26__ellipse-5 {
+  position: absolute;
+  left: 314px;
+  top: 26px;
+  width: 14px;
+  height: 14px;
+  opacity: 0;
+  background-color: #929292;
+  border-radius: 50%;
+}
+
+.component-26--predeterminado {
+  position: relative;
+  flex-shrink: 0;
+  width: 362px;
+  height: 65px;
+}
+
+.component-26--variante-2 .component-26__rectangle-25 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 362px;
+  height: 65px;
+  background-color: #dddcd8;
+  border-radius: 10px;
+}
+
+.component-26--variante-2 .component-26__veces {
+  position: absolute;
+  left: 10px;
+  top: 7px;
+  width: 268px;
+  height: 30px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+  white-space: pre-wrap;
+}
+
+.component-26--variante-2 .component-26__descripcion {
+  position: absolute;
+  left: 10px;
+  top: 37px;
+  width: 268px;
+  height: 21px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 22px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+  white-space: pre-wrap;
+}
+
+.component-26--variante-2 .component-26__ellipse-4 {
+  position: absolute;
+  left: 309px;
+  top: 21px;
+  width: 24px;
+  height: 24px;
+}
+
+.component-26--variante-2 .component-26__ellipse-5 {
+  position: absolute;
+  left: 314px;
+  top: 26px;
+  width: 14px;
+  height: 14px;
+  background-color: #004753;
+  border-radius: 50%;
+}
+
+.component-26--variante-2 {
+  position: relative;
+  flex-shrink: 0;
+  width: 362px;
+  height: 65px;
+}

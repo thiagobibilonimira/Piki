@@ -1,0 +1,73 @@
+/* Component 25 — exportado de Figma ("Piki") */
+
+.component-25--predeterminado .component-25__rectangle-122 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 342px;
+  height: 40px;
+  background-color: #004753;
+  border-radius: 10px;
+}
+
+.component-25--predeterminado .component-25__desbloquear-desafio {
+  position: absolute;
+  left: 51px;
+  top: 8px;
+  width: 240px;
+  height: 24px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #f8f6f0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-25--predeterminado {
+  position: relative;
+  flex-shrink: 0;
+  width: 342px;
+  height: 40px;
+}
+
+.component-25--variante-2 .component-25__rectangle-122 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 342px;
+  height: 40px;
+  background-color: #079ab3;
+  border-radius: 10px;
+}
+
+.component-25--variante-2 .component-25__desafio-desbloqueado {
+  position: absolute;
+  left: 51px;
+  top: 8px;
+  width: 240px;
+  height: 24px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #f8f6f0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-25--variante-2 {
+  position: relative;
+  flex-shrink: 0;
+  width: 342px;
+  height: 40px;
+}

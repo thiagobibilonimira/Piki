@@ -1,0 +1,13 @@
+/* Base para los componentes de Piki: fuentes y reseteo mínimo */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700&display=swap');
+
+[class*="__"], [class*="__"]::before, [class*="__"]::after { box-sizing: border-box; }
+.pk-txt { display: block; width: 100%; }
+
+/* Solo para las páginas de demostración */
+.pk-demo { margin: 0; padding: 40px; background: #e9e9e9; display: flex; flex-wrap: wrap; gap: 40px; align-items: flex-start; font-family: system-ui, sans-serif; }
+.pk-cat-section { width: 100%; }
+.pk-cat-section h2 { font-size: 16px; margin: 0 0 16px; color: #333; }
+.pk-cat-row { display: flex; flex-wrap: wrap; gap: 32px; align-items: flex-start; }
+.pk-cat-row figure { margin: 0; }
+.pk-cat-row figcaption { font-size: 12px; color: #666; margin-top: 8px; }

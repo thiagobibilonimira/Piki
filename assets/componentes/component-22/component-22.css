@@ -1,0 +1,75 @@
+/* Component 22 — exportado de Figma ("Piki") */
+
+.component-22--predeterminado .component-22__rectangle-29 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 362px;
+  height: 40px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-22--predeterminado .component-22__lugar {
+  position: absolute;
+  left: 18px;
+  top: 3px;
+  width: 193px;
+  height: 33px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+  white-space: pre-wrap;
+}
+
+.component-22--predeterminado {
+  position: relative;
+  flex-shrink: 0;
+  width: 362px;
+  height: 40px;
+}
+
+.component-22--variante-2 .component-22__rectangle-29 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 362px;
+  height: 40px;
+  border-radius: 10px;
+  outline: 1px solid #004753;
+  outline-offset: -0.5px;
+}
+
+.component-22--variante-2 .component-22__medico {
+  position: absolute;
+  left: 18px;
+  top: 3px;
+  width: 193px;
+  height: 33px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+  white-space: pre-wrap;
+}
+
+.component-22--variante-2 {
+  position: relative;
+  flex-shrink: 0;
+  width: 362px;
+  height: 40px;
+}

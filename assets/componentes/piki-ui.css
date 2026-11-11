@@ -1,0 +1,7255 @@
+/* Componentes de Piki App — exportados de Figma. Generado para el manual. */
+.pkc [class*="__"], .pkc [class*="__"]::before, .pkc [class*="__"]::after { box-sizing: border-box; }
+.pkc .pk-txt { display: block; width: 100%; }
+/* Component 1 — exportado de Figma ("Piki") */
+
+.component-1--predeterminado .component-1__rectangle-4 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 362px;
+  height: 60px;
+  background-color: #cad83b;
+  border-radius: 30px;
+}
+
+.component-1--predeterminado .component-1__recuperar {
+  position: absolute;
+  left: 72px;
+  top: 35px;
+  width: 72px;
+  height: 22px;
+  opacity: 0.6;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 22px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-1--predeterminado .component-1__inicio {
+  position: absolute;
+  left: 0px;
+  top: 35px;
+  width: 72px;
+  height: 22px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 22px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-1--predeterminado .component-1__mi-estado {
+  position: absolute;
+  left: 145px;
+  top: 35px;
+  width: 72px;
+  height: 22px;
+  opacity: 0.6;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 22px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-1--predeterminado .component-1__plan {
+  position: absolute;
+  left: 216px;
+  top: 35px;
+  width: 72px;
+  height: 22px;
+  opacity: 0.6;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 22px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-1--predeterminado .component-1__perfil {
+  position: absolute;
+  left: 288px;
+  top: 35px;
+  width: 74px;
+  height: 22px;
+  opacity: 0.6;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 22px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-1--predeterminado .component-1__vector {
+  position: absolute;
+  left: -1px;
+  top: -1px;
+  width: 24px;
+  height: 24.29px;
+}
+
+.component-1--predeterminado .component-1__vector-2 {
+  position: absolute;
+  left: 6.33px;
+  top: 11.52px;
+  width: 9.33px;
+  height: 11.78px;
+}
+
+.component-1--predeterminado .component-1__group {
+  position: absolute;
+  left: 25px;
+  top: 10px;
+  width: 22px;
+  height: 22.29px;
+}
+
+.component-1--predeterminado .component-1__vector-3 {
+  position: absolute;
+  left: 95px;
+  top: 9px;
+  width: 26px;
+  height: 24px;
+}
+
+.component-1--predeterminado .component-1__line-5 {
+  position: absolute;
+  left: 8.56px;
+  top: 0px;
+  width: 2.5px;
+  height: 22px;
+}
+
+.component-1--predeterminado .component-1__line-6 {
+  position: absolute;
+  left: 17.11px;
+  top: 4.89px;
+  width: 2.5px;
+  height: 17.11px;
+}
+
+.component-1--predeterminado .component-1__line-7 {
+  position: absolute;
+  left: 0px;
+  top: 8.56px;
+  width: 2.5px;
+  height: 13.44px;
+}
+
+.component-1--predeterminado .component-1__group-1 {
+  position: absolute;
+  left: 172px;
+  top: 10px;
+  width: 17.11px;
+  height: 22px;
+  opacity: 0.6;
+}
+
+.component-1--predeterminado .component-1__vector-4 {
+  position: absolute;
+  left: 315px;
+  top: 10px;
+  width: 20px;
+  height: 22px;
+}
+
+.component-1--predeterminado .component-1__union {
+  position: absolute;
+  left: 242px;
+  top: 10px;
+  width: 19.8px;
+  height: 22px;
+}
+
+.component-1--predeterminado .component-1__rectangle-13 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 74px;
+  height: 60px;
+  opacity: 0.2;
+  background-color: #649d00;
+  border-radius: 30px;
+}
+
+.component-1--predeterminado .component-1__rectangle-15 {
+  position: absolute;
+  left: 64px;
+  top: 0px;
+  width: 85px;
+  height: 60px;
+  border-radius: 30px;
+}
+
+.component-1--predeterminado .component-1__rectangle-16 {
+  position: absolute;
+  left: 215px;
+  top: 0px;
+  width: 74px;
+  height: 60px;
+  border-radius: 30px;
+}
+
+.component-1--predeterminado .component-1__rectangle-18 {
+  position: absolute;
+  left: 288px;
+  top: 0px;
+  width: 74px;
+  height: 60px;
+  border-radius: 30px;
+}
+
+.component-1--predeterminado .component-1__rectangle-17 {
+  position: absolute;
+  left: 140px;
+  top: 0px;
+  width: 81px;
+  height: 60px;
+  border-radius: 30px;
+}
+
+.component-1--predeterminado {
+  position: relative;
+  flex-shrink: 0;
+  width: 362px;
+  height: 60px;
+}
+
+.component-1--variante-2 .component-1__rectangle-4 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 362px;
+  height: 60px;
+  background-color: #cad83b;
+  border-radius: 30px;
+}
+
+.component-1--variante-2 .component-1__recuperar {
+  position: absolute;
+  left: 72px;
+  top: 35px;
+  width: 72px;
+  height: 22px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 22px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-1--variante-2 .component-1__inicio {
+  position: absolute;
+  left: 0px;
+  top: 35px;
+  width: 72px;
+  height: 22px;
+  opacity: 0.6;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 22px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-1--variante-2 .component-1__mi-estado {
+  position: absolute;
+  left: 145px;
+  top: 35px;
+  width: 72px;
+  height: 22px;
+  opacity: 0.6;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 22px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-1--variante-2 .component-1__plan {
+  position: absolute;
+  left: 216px;
+  top: 35px;
+  width: 72px;
+  height: 22px;
+  opacity: 0.6;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 22px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-1--variante-2 .component-1__perfil {
+  position: absolute;
+  left: 288px;
+  top: 35px;
+  width: 74px;
+  height: 22px;
+  opacity: 0.6;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 22px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-1--variante-2 .component-1__vector {
+  position: absolute;
+  left: -1px;
+  top: -1px;
+  width: 24px;
+  height: 24.29px;
+}
+
+.component-1--variante-2 .component-1__vector-2 {
+  position: absolute;
+  left: 6.33px;
+  top: 11.52px;
+  width: 9.33px;
+  height: 11.78px;
+}
+
+.component-1--variante-2 .component-1__group {
+  position: absolute;
+  left: 25px;
+  top: 10px;
+  width: 22px;
+  height: 22.29px;
+  opacity: 0.6;
+}
+
+.component-1--variante-2 .component-1__vector-3 {
+  position: absolute;
+  left: 95px;
+  top: 9px;
+  width: 26px;
+  height: 24px;
+}
+
+.component-1--variante-2 .component-1__line-5 {
+  position: absolute;
+  left: 8.56px;
+  top: 0px;
+  width: 2.5px;
+  height: 22px;
+}
+
+.component-1--variante-2 .component-1__line-6 {
+  position: absolute;
+  left: 17.11px;
+  top: 4.89px;
+  width: 2.5px;
+  height: 17.11px;
+}
+
+.component-1--variante-2 .component-1__line-7 {
+  position: absolute;
+  left: 0px;
+  top: 8.56px;
+  width: 2.5px;
+  height: 13.44px;
+}
+
+.component-1--variante-2 .component-1__group-1 {
+  position: absolute;
+  left: 172px;
+  top: 10px;
+  width: 17.11px;
+  height: 22px;
+  opacity: 0.6;
+}
+
+.component-1--variante-2 .component-1__vector-4 {
+  position: absolute;
+  left: 315px;
+  top: 10px;
+  width: 20px;
+  height: 22px;
+}
+
+.component-1--variante-2 .component-1__union {
+  position: absolute;
+  left: 242px;
+  top: 10px;
+  width: 19.8px;
+  height: 22px;
+}
+
+.component-1--variante-2 .component-1__rectangle-13 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 70px;
+  height: 60px;
+  border-radius: 30px;
+}
+
+.component-1--variante-2 .component-1__rectangle-15 {
+  position: absolute;
+  left: 64px;
+  top: 0px;
+  width: 85px;
+  height: 60px;
+  opacity: 0.2;
+  background-color: #649d00;
+  border-radius: 30px;
+}
+
+.component-1--variante-2 .component-1__rectangle-16 {
+  position: absolute;
+  left: 215px;
+  top: 0px;
+  width: 74px;
+  height: 60px;
+  border-radius: 30px;
+}
+
+.component-1--variante-2 .component-1__rectangle-18 {
+  position: absolute;
+  left: 288px;
+  top: 0px;
+  width: 74px;
+  height: 60px;
+  border-radius: 30px;
+}
+
+.component-1--variante-2 .component-1__rectangle-17 {
+  position: absolute;
+  left: 140px;
+  top: 0px;
+  width: 81px;
+  height: 60px;
+  border-radius: 30px;
+}
+
+.component-1--variante-2 {
+  position: relative;
+  flex-shrink: 0;
+  width: 362px;
+  height: 60px;
+}
+
+.component-1--variante-3 .component-1__rectangle-4 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 362px;
+  height: 60px;
+  background-color: #cad83b;
+  border-radius: 30px;
+}
+
+.component-1--variante-3 .component-1__recuperar {
+  position: absolute;
+  left: 72px;
+  top: 35px;
+  width: 72px;
+  height: 22px;
+  opacity: 0.6;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 22px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-1--variante-3 .component-1__inicio {
+  position: absolute;
+  left: 0px;
+  top: 35px;
+  width: 72px;
+  height: 22px;
+  opacity: 0.6;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 22px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-1--variante-3 .component-1__mi-estado {
+  position: absolute;
+  left: 145px;
+  top: 35px;
+  width: 72px;
+  height: 22px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 22px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-1--variante-3 .component-1__plan {
+  position: absolute;
+  left: 216px;
+  top: 35px;
+  width: 72px;
+  height: 22px;
+  opacity: 0.6;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 22px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-1--variante-3 .component-1__perfil {
+  position: absolute;
+  left: 288px;
+  top: 35px;
+  width: 74px;
+  height: 22px;
+  opacity: 0.6;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 22px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-1--variante-3 .component-1__vector {
+  position: absolute;
+  left: -1px;
+  top: -1px;
+  width: 24px;
+  height: 24.29px;
+}
+
+.component-1--variante-3 .component-1__vector-2 {
+  position: absolute;
+  left: 6.33px;
+  top: 11.52px;
+  width: 9.33px;
+  height: 11.78px;
+}
+
+.component-1--variante-3 .component-1__group {
+  position: absolute;
+  left: 25px;
+  top: 10px;
+  width: 22px;
+  height: 22.29px;
+  opacity: 0.6;
+}
+
+.component-1--variante-3 .component-1__vector-3 {
+  position: absolute;
+  left: 95px;
+  top: 9px;
+  width: 26px;
+  height: 24px;
+}
+
+.component-1--variante-3 .component-1__line-5 {
+  position: absolute;
+  left: 8.56px;
+  top: 0px;
+  width: 2.5px;
+  height: 22px;
+}
+
+.component-1--variante-3 .component-1__line-6 {
+  position: absolute;
+  left: 17.11px;
+  top: 4.89px;
+  width: 2.5px;
+  height: 17.11px;
+}
+
+.component-1--variante-3 .component-1__line-7 {
+  position: absolute;
+  left: 0px;
+  top: 8.56px;
+  width: 2.5px;
+  height: 13.44px;
+}
+
+.component-1--variante-3 .component-1__group-1 {
+  position: absolute;
+  left: 172px;
+  top: 10px;
+  width: 17.11px;
+  height: 22px;
+}
+
+.component-1--variante-3 .component-1__vector-4 {
+  position: absolute;
+  left: 315px;
+  top: 10px;
+  width: 20px;
+  height: 22px;
+}
+
+.component-1--variante-3 .component-1__union {
+  position: absolute;
+  left: 242px;
+  top: 10px;
+  width: 19.8px;
+  height: 22px;
+}
+
+.component-1--variante-3 .component-1__rectangle-13 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 70px;
+  height: 60px;
+  border-radius: 30px;
+}
+
+.component-1--variante-3 .component-1__rectangle-15 {
+  position: absolute;
+  left: 64px;
+  top: 0px;
+  width: 85px;
+  height: 60px;
+  border-radius: 30px;
+}
+
+.component-1--variante-3 .component-1__rectangle-16 {
+  position: absolute;
+  left: 215px;
+  top: 0px;
+  width: 74px;
+  height: 60px;
+  border-radius: 30px;
+}
+
+.component-1--variante-3 .component-1__rectangle-18 {
+  position: absolute;
+  left: 288px;
+  top: 0px;
+  width: 74px;
+  height: 60px;
+  border-radius: 30px;
+}
+
+.component-1--variante-3 .component-1__rectangle-17 {
+  position: absolute;
+  left: 140px;
+  top: 0px;
+  width: 81px;
+  height: 60px;
+  opacity: 0.2;
+  background-color: #649d00;
+  border-radius: 30px;
+}
+
+.component-1--variante-3 {
+  position: relative;
+  flex-shrink: 0;
+  width: 362px;
+  height: 60px;
+}
+
+.component-1--variante-4 .component-1__rectangle-4 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 362px;
+  height: 60px;
+  background-color: #cad83b;
+  border-radius: 30px;
+}
+
+.component-1--variante-4 .component-1__recuperar {
+  position: absolute;
+  left: 72px;
+  top: 35px;
+  width: 72px;
+  height: 22px;
+  opacity: 0.6;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 22px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-1--variante-4 .component-1__inicio {
+  position: absolute;
+  left: 0px;
+  top: 35px;
+  width: 72px;
+  height: 22px;
+  opacity: 0.6;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 22px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-1--variante-4 .component-1__mi-estado {
+  position: absolute;
+  left: 145px;
+  top: 35px;
+  width: 72px;
+  height: 22px;
+  opacity: 0.6;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 22px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-1--variante-4 .component-1__plan {
+  position: absolute;
+  left: 216px;
+  top: 35px;
+  width: 72px;
+  height: 22px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 22px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-1--variante-4 .component-1__perfil {
+  position: absolute;
+  left: 288px;
+  top: 35px;
+  width: 74px;
+  height: 22px;
+  opacity: 0.6;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 22px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-1--variante-4 .component-1__vector {
+  position: absolute;
+  left: -1px;
+  top: -1px;
+  width: 24px;
+  height: 24.29px;
+}
+
+.component-1--variante-4 .component-1__vector-2 {
+  position: absolute;
+  left: 6.33px;
+  top: 11.52px;
+  width: 9.33px;
+  height: 11.78px;
+}
+
+.component-1--variante-4 .component-1__group {
+  position: absolute;
+  left: 25px;
+  top: 10px;
+  width: 22px;
+  height: 22.29px;
+  opacity: 0.6;
+}
+
+.component-1--variante-4 .component-1__vector-3 {
+  position: absolute;
+  left: 95px;
+  top: 9px;
+  width: 26px;
+  height: 24px;
+}
+
+.component-1--variante-4 .component-1__line-5 {
+  position: absolute;
+  left: 8.56px;
+  top: 0px;
+  width: 2.5px;
+  height: 22px;
+}
+
+.component-1--variante-4 .component-1__line-6 {
+  position: absolute;
+  left: 17.11px;
+  top: 4.89px;
+  width: 2.5px;
+  height: 17.11px;
+}
+
+.component-1--variante-4 .component-1__line-7 {
+  position: absolute;
+  left: 0px;
+  top: 8.56px;
+  width: 2.5px;
+  height: 13.44px;
+}
+
+.component-1--variante-4 .component-1__group-1 {
+  position: absolute;
+  left: 172px;
+  top: 10px;
+  width: 17.11px;
+  height: 22px;
+  opacity: 0.6;
+}
+
+.component-1--variante-4 .component-1__vector-4 {
+  position: absolute;
+  left: 315px;
+  top: 10px;
+  width: 20px;
+  height: 22px;
+}
+
+.component-1--variante-4 .component-1__union {
+  position: absolute;
+  left: 242px;
+  top: 10px;
+  width: 19.8px;
+  height: 22px;
+}
+
+.component-1--variante-4 .component-1__rectangle-13 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 70px;
+  height: 60px;
+  border-radius: 30px;
+}
+
+.component-1--variante-4 .component-1__rectangle-15 {
+  position: absolute;
+  left: 64px;
+  top: 0px;
+  width: 85px;
+  height: 60px;
+  border-radius: 30px;
+}
+
+.component-1--variante-4 .component-1__rectangle-16 {
+  position: absolute;
+  left: 215px;
+  top: 0px;
+  width: 74px;
+  height: 60px;
+  opacity: 0.2;
+  background-color: #649d00;
+  border-radius: 30px;
+}
+
+.component-1--variante-4 .component-1__rectangle-18 {
+  position: absolute;
+  left: 288px;
+  top: 0px;
+  width: 74px;
+  height: 60px;
+  border-radius: 30px;
+}
+
+.component-1--variante-4 .component-1__rectangle-17 {
+  position: absolute;
+  left: 140px;
+  top: 0px;
+  width: 81px;
+  height: 60px;
+  border-radius: 30px;
+}
+
+.component-1--variante-4 {
+  position: relative;
+  flex-shrink: 0;
+  width: 362px;
+  height: 60px;
+}
+
+.component-1--variante-5 .component-1__rectangle-4 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 362px;
+  height: 60px;
+  background-color: #cad83b;
+  border-radius: 30px;
+}
+
+.component-1--variante-5 .component-1__recuperar {
+  position: absolute;
+  left: 72px;
+  top: 35px;
+  width: 72px;
+  height: 22px;
+  opacity: 0.6;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 22px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-1--variante-5 .component-1__inicio {
+  position: absolute;
+  left: 0px;
+  top: 35px;
+  width: 72px;
+  height: 22px;
+  opacity: 0.6;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 22px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-1--variante-5 .component-1__mi-estado {
+  position: absolute;
+  left: 145px;
+  top: 35px;
+  width: 72px;
+  height: 22px;
+  opacity: 0.6;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 22px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-1--variante-5 .component-1__plan {
+  position: absolute;
+  left: 216px;
+  top: 35px;
+  width: 72px;
+  height: 22px;
+  opacity: 0.6;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 22px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-1--variante-5 .component-1__perfil {
+  position: absolute;
+  left: 288px;
+  top: 35px;
+  width: 74px;
+  height: 22px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 22px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-1--variante-5 .component-1__vector {
+  position: absolute;
+  left: -1px;
+  top: -1px;
+  width: 24px;
+  height: 24.29px;
+}
+
+.component-1--variante-5 .component-1__vector-2 {
+  position: absolute;
+  left: 6.33px;
+  top: 11.52px;
+  width: 9.33px;
+  height: 11.78px;
+}
+
+.component-1--variante-5 .component-1__group {
+  position: absolute;
+  left: 25px;
+  top: 10px;
+  width: 22px;
+  height: 22.29px;
+  opacity: 0.6;
+}
+
+.component-1--variante-5 .component-1__vector-3 {
+  position: absolute;
+  left: 95px;
+  top: 9px;
+  width: 26px;
+  height: 24px;
+}
+
+.component-1--variante-5 .component-1__line-5 {
+  position: absolute;
+  left: 8.56px;
+  top: 0px;
+  width: 2.5px;
+  height: 22px;
+}
+
+.component-1--variante-5 .component-1__line-6 {
+  position: absolute;
+  left: 17.11px;
+  top: 4.89px;
+  width: 2.5px;
+  height: 17.11px;
+}
+
+.component-1--variante-5 .component-1__line-7 {
+  position: absolute;
+  left: 0px;
+  top: 8.56px;
+  width: 2.5px;
+  height: 13.44px;
+}
+
+.component-1--variante-5 .component-1__group-1 {
+  position: absolute;
+  left: 172px;
+  top: 10px;
+  width: 17.11px;
+  height: 22px;
+  opacity: 0.6;
+}
+
+.component-1--variante-5 .component-1__vector-4 {
+  position: absolute;
+  left: 315px;
+  top: 10px;
+  width: 20px;
+  height: 22px;
+}
+
+.component-1--variante-5 .component-1__union {
+  position: absolute;
+  left: 242px;
+  top: 10px;
+  width: 19.8px;
+  height: 22px;
+}
+
+.component-1--variante-5 .component-1__rectangle-13 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 70px;
+  height: 60px;
+  border-radius: 30px;
+}
+
+.component-1--variante-5 .component-1__rectangle-15 {
+  position: absolute;
+  left: 64px;
+  top: 0px;
+  width: 85px;
+  height: 60px;
+  border-radius: 30px;
+}
+
+.component-1--variante-5 .component-1__rectangle-16 {
+  position: absolute;
+  left: 215px;
+  top: 0px;
+  width: 74px;
+  height: 60px;
+  border-radius: 30px;
+}
+
+.component-1--variante-5 .component-1__rectangle-18 {
+  position: absolute;
+  left: 288px;
+  top: 0px;
+  width: 74px;
+  height: 60px;
+  opacity: 0.2;
+  background-color: #649d00;
+  border-radius: 30px;
+}
+
+.component-1--variante-5 .component-1__rectangle-17 {
+  position: absolute;
+  left: 140px;
+  top: 0px;
+  width: 81px;
+  height: 60px;
+  border-radius: 30px;
+}
+
+.component-1--variante-5 {
+  position: relative;
+  flex-shrink: 0;
+  width: 362px;
+  height: 60px;
+}
+
+/* Component 31 — exportado de Figma ("Piki") */
+
+.component-31--predeterminado .component-31__rectangle-257 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 362px;
+  height: 60px;
+  background-color: #dddcd8;
+  border-radius: 10px;
+}
+
+.component-31--predeterminado .component-31__rectangle-258 {
+  position: absolute;
+  left: 10px;
+  top: 10px;
+  width: 161px;
+  height: 40px;
+  background-color: #004753;
+  border-radius: 5px;
+}
+
+.component-31--predeterminado .component-31__iniciar-sesion {
+  position: absolute;
+  left: 27px;
+  top: 17px;
+  width: 127px;
+  height: 26px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #f8f6f0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-31--predeterminado .component-31__registrarse {
+  position: absolute;
+  left: 194px;
+  top: 10px;
+  width: 155px;
+  height: 40px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-31--predeterminado {
+  position: relative;
+  flex-shrink: 0;
+  width: 362px;
+  height: 60px;
+}
+
+.component-31--variante-2 .component-31__rectangle-257 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 362px;
+  height: 60px;
+  background-color: #dddcd8;
+  border-radius: 10px;
+}
+
+.component-31--variante-2 .component-31__rectangle-259 {
+  position: absolute;
+  left: 191px;
+  top: 10px;
+  width: 161px;
+  height: 40px;
+  background-color: #004753;
+  border-radius: 5px;
+}
+
+.component-31--variante-2 .component-31__iniciar-sesion {
+  position: absolute;
+  left: 17px;
+  top: 10px;
+  width: 147px;
+  height: 40px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-31--variante-2 .component-31__registrarse {
+  position: absolute;
+  left: 208px;
+  top: 17px;
+  width: 127px;
+  height: 26px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #f8f6f0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-31--variante-2 {
+  position: relative;
+  flex-shrink: 0;
+  width: 362px;
+  height: 60px;
+}
+
+/* Group 3 — exportado de Figma ("Piki") */
+
+.group-3--predeterminado .group-3__rectangle-42 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.group-3--predeterminado .group-3__todos {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.group-3--predeterminado .group-3__component-4 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+}
+
+.group-3--predeterminado .group-3__rectangle-42-2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.group-3--predeterminado .group-3__todos-2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.group-3--predeterminado .group-3__component-5 {
+  position: absolute;
+  left: 160px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+}
+
+.group-3--predeterminado .group-3__rectangle-42-3 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.group-3--predeterminado .group-3__todos-3 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.group-3--predeterminado .group-3__component-6 {
+  position: absolute;
+  left: 320px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+}
+
+.group-3--predeterminado .group-3__rectangle-42-4 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.group-3--predeterminado .group-3__todos-4 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.group-3--predeterminado .group-3__component-7 {
+  position: absolute;
+  left: 480px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+}
+
+.group-3--predeterminado {
+  position: relative;
+  flex-shrink: 0;
+  width: 620px;
+  height: 45px;
+}
+
+.group-3--variante-5 .group-3__rectangle-42 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+  background-color: #004753;
+  border-radius: 10px;
+  outline: 1px solid #004753;
+  outline-offset: -0.5px;
+}
+
+.group-3--variante-5 .group-3__todos {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #f8f6f0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.group-3--variante-5 .group-3__component-4 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+}
+
+.group-3--variante-5 .group-3__rectangle-42-2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.group-3--variante-5 .group-3__todos-2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.group-3--variante-5 .group-3__component-5 {
+  position: absolute;
+  left: 160px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+}
+
+.group-3--variante-5 .group-3__rectangle-42-3 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.group-3--variante-5 .group-3__todos-3 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.group-3--variante-5 .group-3__component-6 {
+  position: absolute;
+  left: 320px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+}
+
+.group-3--variante-5 .group-3__rectangle-42-4 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.group-3--variante-5 .group-3__todos-4 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.group-3--variante-5 .group-3__component-7 {
+  position: absolute;
+  left: 480px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+}
+
+.group-3--variante-5 {
+  position: relative;
+  flex-shrink: 0;
+  width: 620px;
+  height: 45px;
+}
+
+.group-3--estado-1 .group-3__rectangle-42 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.group-3--estado-1 .group-3__todos {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.group-3--estado-1 .group-3__component-4 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+}
+
+.group-3--estado-1 .group-3__rectangle-42-2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+  background-color: #004753;
+  border-radius: 10px;
+  outline: 1px solid #004753;
+  outline-offset: -0.5px;
+}
+
+.group-3--estado-1 .group-3__todos-2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #f8f6f0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.group-3--estado-1 .group-3__component-5 {
+  position: absolute;
+  left: 160px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+}
+
+.group-3--estado-1 .group-3__rectangle-42-3 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.group-3--estado-1 .group-3__todos-3 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.group-3--estado-1 .group-3__component-6 {
+  position: absolute;
+  left: 320px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+}
+
+.group-3--estado-1 .group-3__rectangle-42-4 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.group-3--estado-1 .group-3__todos-4 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.group-3--estado-1 .group-3__component-7 {
+  position: absolute;
+  left: 480px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+}
+
+.group-3--estado-1 {
+  position: relative;
+  flex-shrink: 0;
+  width: 620px;
+  height: 45px;
+}
+
+.group-3--estado-2 .group-3__rectangle-42 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.group-3--estado-2 .group-3__todos {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.group-3--estado-2 .group-3__component-4 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+}
+
+.group-3--estado-2 .group-3__rectangle-42-2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.group-3--estado-2 .group-3__todos-2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.group-3--estado-2 .group-3__component-5 {
+  position: absolute;
+  left: 160px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+}
+
+.group-3--estado-2 .group-3__rectangle-42-3 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+  background-color: #004753;
+  border-radius: 10px;
+  outline: 1px solid #004753;
+  outline-offset: -0.5px;
+}
+
+.group-3--estado-2 .group-3__todos-3 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #f8f6f0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.group-3--estado-2 .group-3__component-6 {
+  position: absolute;
+  left: 320px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+}
+
+.group-3--estado-2 .group-3__rectangle-42-4 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.group-3--estado-2 .group-3__todos-4 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.group-3--estado-2 .group-3__component-7 {
+  position: absolute;
+  left: 480px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+}
+
+.group-3--estado-2 {
+  position: relative;
+  flex-shrink: 0;
+  width: 620px;
+  height: 45px;
+}
+
+.group-3--estado-3 .group-3__rectangle-42 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.group-3--estado-3 .group-3__todos {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.group-3--estado-3 .group-3__component-4 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+}
+
+.group-3--estado-3 .group-3__rectangle-42-2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.group-3--estado-3 .group-3__todos-2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.group-3--estado-3 .group-3__component-5 {
+  position: absolute;
+  left: 160px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+}
+
+.group-3--estado-3 .group-3__rectangle-42-3 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.group-3--estado-3 .group-3__todos-3 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.group-3--estado-3 .group-3__component-6 {
+  position: absolute;
+  left: 320px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+}
+
+.group-3--estado-3 .group-3__rectangle-42-4 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+  background-color: #004753;
+  border-radius: 10px;
+  outline: 1px solid #004753;
+  outline-offset: -0.5px;
+}
+
+.group-3--estado-3 .group-3__todos-4 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #f8f6f0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.group-3--estado-3 .group-3__component-7 {
+  position: absolute;
+  left: 480px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+}
+
+.group-3--estado-3 {
+  position: relative;
+  flex-shrink: 0;
+  width: 620px;
+  height: 45px;
+}
+
+/* Component 8 — exportado de Figma ("Piki") */
+
+.component-8--predeterminado .component-8__rectangle-43 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 145px;
+  height: 45px;
+  background-color: #004753;
+  border-radius: 10px;
+}
+
+.component-8--predeterminado .component-8__rectangle-44 {
+  position: absolute;
+  left: 165px;
+  top: 0px;
+  width: 145px;
+  height: 45px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-8--predeterminado .component-8__rectangle-45 {
+  position: absolute;
+  left: 330px;
+  top: 0px;
+  width: 145px;
+  height: 45px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-8--predeterminado .component-8__rectangle-46 {
+  position: absolute;
+  left: 495px;
+  top: 0px;
+  width: 145px;
+  height: 45px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-8--predeterminado .component-8__rectangle-47 {
+  position: absolute;
+  left: 660px;
+  top: 0px;
+  width: 145px;
+  height: 45px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-8--predeterminado .component-8__todos {
+  position: absolute;
+  left: 24px;
+  top: 8px;
+  width: 97px;
+  height: 29px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #f8f6f0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-8--predeterminado .component-8__sueno {
+  position: absolute;
+  left: 189px;
+  top: 8px;
+  width: 97px;
+  height: 29px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-8--predeterminado .component-8__recuperacion {
+  position: absolute;
+  left: 344px;
+  top: 8px;
+  width: 117px;
+  height: 29px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-8--predeterminado .component-8__salud-mental {
+  position: absolute;
+  left: 504px;
+  top: 8px;
+  width: 127px;
+  height: 29px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-8--predeterminado .component-8__fatiga {
+  position: absolute;
+  left: 684px;
+  top: 8px;
+  width: 97px;
+  height: 29px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-8--predeterminado {
+  position: relative;
+  flex-shrink: 0;
+  width: 805px;
+  height: 45px;
+}
+
+.component-8--variante-2 .component-8__rectangle-43 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 145px;
+  height: 45px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-8--variante-2 .component-8__rectangle-44 {
+  position: absolute;
+  left: 165px;
+  top: 0px;
+  width: 145px;
+  height: 45px;
+  background-color: #004753;
+  border-radius: 10px;
+}
+
+.component-8--variante-2 .component-8__rectangle-45 {
+  position: absolute;
+  left: 330px;
+  top: 0px;
+  width: 145px;
+  height: 45px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-8--variante-2 .component-8__rectangle-46 {
+  position: absolute;
+  left: 495px;
+  top: 0px;
+  width: 145px;
+  height: 45px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-8--variante-2 .component-8__rectangle-47 {
+  position: absolute;
+  left: 660px;
+  top: 0px;
+  width: 145px;
+  height: 45px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-8--variante-2 .component-8__todos {
+  position: absolute;
+  left: 24px;
+  top: 8px;
+  width: 97px;
+  height: 29px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-8--variante-2 .component-8__sueno {
+  position: absolute;
+  left: 189px;
+  top: 8px;
+  width: 97px;
+  height: 29px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #f8f6f0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-8--variante-2 .component-8__recuperacion {
+  position: absolute;
+  left: 344px;
+  top: 8px;
+  width: 117px;
+  height: 29px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-8--variante-2 .component-8__salud-mental {
+  position: absolute;
+  left: 504px;
+  top: 8px;
+  width: 127px;
+  height: 29px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-8--variante-2 .component-8__fatiga {
+  position: absolute;
+  left: 684px;
+  top: 8px;
+  width: 97px;
+  height: 29px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-8--variante-2 {
+  position: relative;
+  flex-shrink: 0;
+  width: 805px;
+  height: 45px;
+}
+
+.component-8--variante-3 .component-8__rectangle-43 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 145px;
+  height: 45px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-8--variante-3 .component-8__rectangle-44 {
+  position: absolute;
+  left: 165px;
+  top: 0px;
+  width: 145px;
+  height: 45px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-8--variante-3 .component-8__rectangle-45 {
+  position: absolute;
+  left: 330px;
+  top: 0px;
+  width: 145px;
+  height: 45px;
+  background-color: #004753;
+  border-radius: 10px;
+}
+
+.component-8--variante-3 .component-8__rectangle-46 {
+  position: absolute;
+  left: 495px;
+  top: 0px;
+  width: 145px;
+  height: 45px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-8--variante-3 .component-8__rectangle-47 {
+  position: absolute;
+  left: 660px;
+  top: 0px;
+  width: 145px;
+  height: 45px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-8--variante-3 .component-8__todos {
+  position: absolute;
+  left: 24px;
+  top: 8px;
+  width: 97px;
+  height: 29px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-8--variante-3 .component-8__sueno {
+  position: absolute;
+  left: 189px;
+  top: 8px;
+  width: 97px;
+  height: 29px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-8--variante-3 .component-8__recuperacion {
+  position: absolute;
+  left: 344px;
+  top: 8px;
+  width: 117px;
+  height: 29px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #f8f6f0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-8--variante-3 .component-8__salud-mental {
+  position: absolute;
+  left: 504px;
+  top: 8px;
+  width: 127px;
+  height: 29px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-8--variante-3 .component-8__fatiga {
+  position: absolute;
+  left: 684px;
+  top: 8px;
+  width: 97px;
+  height: 29px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-8--variante-3 {
+  position: relative;
+  flex-shrink: 0;
+  width: 805px;
+  height: 45px;
+}
+
+.component-8--variante-4 .component-8__rectangle-43 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 145px;
+  height: 45px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-8--variante-4 .component-8__rectangle-44 {
+  position: absolute;
+  left: 165px;
+  top: 0px;
+  width: 145px;
+  height: 45px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-8--variante-4 .component-8__rectangle-45 {
+  position: absolute;
+  left: 330px;
+  top: 0px;
+  width: 145px;
+  height: 45px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-8--variante-4 .component-8__rectangle-46 {
+  position: absolute;
+  left: 495px;
+  top: 0px;
+  width: 145px;
+  height: 45px;
+  background-color: #004753;
+  border-radius: 10px;
+}
+
+.component-8--variante-4 .component-8__rectangle-47 {
+  position: absolute;
+  left: 660px;
+  top: 0px;
+  width: 145px;
+  height: 45px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-8--variante-4 .component-8__todos {
+  position: absolute;
+  left: 24px;
+  top: 8px;
+  width: 97px;
+  height: 29px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-8--variante-4 .component-8__sueno {
+  position: absolute;
+  left: 189px;
+  top: 8px;
+  width: 97px;
+  height: 29px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-8--variante-4 .component-8__recuperacion {
+  position: absolute;
+  left: 344px;
+  top: 8px;
+  width: 117px;
+  height: 29px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-8--variante-4 .component-8__salud-mental {
+  position: absolute;
+  left: 504px;
+  top: 8px;
+  width: 127px;
+  height: 29px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #f8f6f0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-8--variante-4 .component-8__fatiga {
+  position: absolute;
+  left: 684px;
+  top: 8px;
+  width: 97px;
+  height: 29px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-8--variante-4 {
+  position: relative;
+  flex-shrink: 0;
+  width: 805px;
+  height: 45px;
+}
+
+.component-8--variante-5 .component-8__rectangle-43 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 145px;
+  height: 45px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-8--variante-5 .component-8__rectangle-44 {
+  position: absolute;
+  left: 165px;
+  top: 0px;
+  width: 145px;
+  height: 45px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-8--variante-5 .component-8__rectangle-45 {
+  position: absolute;
+  left: 330px;
+  top: 0px;
+  width: 145px;
+  height: 45px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-8--variante-5 .component-8__rectangle-46 {
+  position: absolute;
+  left: 495px;
+  top: 0px;
+  width: 145px;
+  height: 45px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-8--variante-5 .component-8__rectangle-47 {
+  position: absolute;
+  left: 660px;
+  top: 0px;
+  width: 145px;
+  height: 45px;
+  background-color: #004753;
+  border-radius: 10px;
+}
+
+.component-8--variante-5 .component-8__todos {
+  position: absolute;
+  left: 24px;
+  top: 8px;
+  width: 97px;
+  height: 29px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-8--variante-5 .component-8__sueno {
+  position: absolute;
+  left: 189px;
+  top: 8px;
+  width: 97px;
+  height: 29px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-8--variante-5 .component-8__recuperacion {
+  position: absolute;
+  left: 344px;
+  top: 8px;
+  width: 117px;
+  height: 29px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-8--variante-5 .component-8__salud-mental {
+  position: absolute;
+  left: 504px;
+  top: 8px;
+  width: 127px;
+  height: 29px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-8--variante-5 .component-8__fatiga {
+  position: absolute;
+  left: 684px;
+  top: 8px;
+  width: 97px;
+  height: 29px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #f8f6f0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-8--variante-5 {
+  position: relative;
+  flex-shrink: 0;
+  width: 805px;
+  height: 45px;
+}
+
+/* Component 4 — exportado de Figma ("Piki") */
+
+.component-4--predeterminado .component-4__rectangle-42 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-4--predeterminado .component-4__todos {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-4--predeterminado {
+  position: relative;
+  flex-shrink: 0;
+  width: 140px;
+  height: 45px;
+}
+
+.component-4--variante-2 .component-4__rectangle-42 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+  background-color: #004753;
+  border-radius: 10px;
+  outline: 1px solid #004753;
+  outline-offset: -0.5px;
+}
+
+.component-4--variante-2 .component-4__todos {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 140px;
+  height: 45px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #f8f6f0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-4--variante-2 {
+  position: relative;
+  flex-shrink: 0;
+  width: 140px;
+  height: 45px;
+}
+
+/* Component 10 — exportado de Figma ("Piki") */
+
+.component-10--predeterminado .component-10__rectangle-38 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 362px;
+  height: 60px;
+  background-color: #004753;
+  border-radius: 10px;
+}
+
+.component-10--predeterminado .component-10__guardar-ejercicio {
+  position: absolute;
+  left: 55px;
+  top: 19px;
+  width: 253px;
+  height: 22px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #f8f6f0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-10--predeterminado {
+  position: relative;
+  flex-shrink: 0;
+  width: 362px;
+  height: 60px;
+}
+
+.component-10--variante-2 .component-10__rectangle-38 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 362px;
+  height: 60px;
+  background-color: #079ab3;
+  border-radius: 10px;
+}
+
+.component-10--variante-2 .component-10__ejercicio-guardado {
+  position: absolute;
+  left: 55px;
+  top: 19px;
+  width: 253px;
+  height: 22px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #f8f6f0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-10--variante-2 {
+  position: relative;
+  flex-shrink: 0;
+  width: 362px;
+  height: 60px;
+}
+
+/* Component 11 — exportado de Figma ("Piki") */
+
+.component-11--predeterminado .component-11__rectangle-38 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 362px;
+  height: 60px;
+  background-color: #004753;
+  border-radius: 10px;
+}
+
+.component-11--predeterminado .component-11__guardar-articulo {
+  position: absolute;
+  left: 55px;
+  top: 19px;
+  width: 253px;
+  height: 22px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #f8f6f0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-11--predeterminado {
+  position: relative;
+  flex-shrink: 0;
+  width: 362px;
+  height: 60px;
+}
+
+.component-11--variante-2 .component-11__rectangle-38 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 362px;
+  height: 60px;
+  background-color: #079ab3;
+  border-radius: 10px;
+}
+
+.component-11--variante-2 .component-11__articulo-guardado {
+  position: absolute;
+  left: 55px;
+  top: 19px;
+  width: 253px;
+  height: 22px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #f8f6f0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-11--variante-2 {
+  position: relative;
+  flex-shrink: 0;
+  width: 362px;
+  height: 60px;
+}
+
+/* Component 12 — exportado de Figma ("Piki") */
+
+.component-12--predeterminado .component-12__rectangle-39 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 362px;
+  height: 60px;
+  background-color: #004753;
+  border-radius: 10px;
+}
+
+.component-12--predeterminado .component-12__guardar-receta {
+  position: absolute;
+  left: 55px;
+  top: 19px;
+  width: 253px;
+  height: 22px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #f8f6f0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-12--predeterminado {
+  position: relative;
+  flex-shrink: 0;
+  width: 362px;
+  height: 60px;
+}
+
+.component-12--variante-2 .component-12__rectangle-39 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 362px;
+  height: 60px;
+  background-color: #079ab3;
+  border-radius: 10px;
+}
+
+.component-12--variante-2 .component-12__receta-guardada {
+  position: absolute;
+  left: 55px;
+  top: 19px;
+  width: 253px;
+  height: 22px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #f8f6f0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-12--variante-2 {
+  position: relative;
+  flex-shrink: 0;
+  width: 362px;
+  height: 60px;
+}
+
+/* Component 25 — exportado de Figma ("Piki") */
+
+.component-25--predeterminado .component-25__rectangle-122 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 342px;
+  height: 40px;
+  background-color: #004753;
+  border-radius: 10px;
+}
+
+.component-25--predeterminado .component-25__desbloquear-desafio {
+  position: absolute;
+  left: 51px;
+  top: 8px;
+  width: 240px;
+  height: 24px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #f8f6f0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-25--predeterminado {
+  position: relative;
+  flex-shrink: 0;
+  width: 342px;
+  height: 40px;
+}
+
+.component-25--variante-2 .component-25__rectangle-122 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 342px;
+  height: 40px;
+  background-color: #079ab3;
+  border-radius: 10px;
+}
+
+.component-25--variante-2 .component-25__desafio-desbloqueado {
+  position: absolute;
+  left: 51px;
+  top: 8px;
+  width: 240px;
+  height: 24px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #f8f6f0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-25--variante-2 {
+  position: relative;
+  flex-shrink: 0;
+  width: 342px;
+  height: 40px;
+}
+
+/* Component 9 — exportado de Figma ("Piki") */
+
+.component-9--predeterminado .component-9__vector {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 39px;
+  height: 44px;
+}
+
+.component-9--predeterminado {
+  position: relative;
+  flex-shrink: 0;
+  width: 39px;
+  height: 44px;
+}
+
+.component-9--variante-2 .component-9__vector {
+  position: absolute;
+  left: 1px;
+  top: 0px;
+  width: 38px;
+  height: 44px;
+}
+
+.component-9--variante-2 {
+  position: relative;
+  flex-shrink: 0;
+  width: 39px;
+  height: 44px;
+}
+
+/* Component 3 — exportado de Figma ("Piki") */
+
+.component-3--predeterminado .component-3__estado-fisico-general {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 290px;
+  height: 36px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: left;
+  white-space: pre-wrap;
+}
+
+.component-3--predeterminado .component-3__rectangle-30 {
+  position: absolute;
+  left: 0px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-3--predeterminado .component-3__rectangle-31 {
+  position: absolute;
+  left: 150px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-3--predeterminado .component-3__rectangle-34 {
+  position: absolute;
+  left: 75px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-3--predeterminado .component-3__rectangle-32 {
+  position: absolute;
+  left: 302px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-3--predeterminado .component-3__rectangle-33 {
+  position: absolute;
+  left: 226px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-3--predeterminado .component-3__1 {
+  position: absolute;
+  left: 0px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 34px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-3--predeterminado .component-3__2 {
+  position: absolute;
+  left: 75px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 34px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-3--predeterminado .component-3__3 {
+  position: absolute;
+  left: 150px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 34px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-3--predeterminado .component-3__4 {
+  position: absolute;
+  left: 226px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 34px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-3--predeterminado .component-3__5 {
+  position: absolute;
+  left: 302px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 34px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-3--predeterminado .component-3__muy-bajo {
+  position: absolute;
+  left: 0px;
+  top: 111px;
+  width: 67px;
+  height: 22px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 22px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: left;
+  white-space: pre;
+}
+
+.component-3--predeterminado .component-3__muy-alto {
+  position: absolute;
+  left: 299px;
+  top: 111px;
+  width: 63px;
+  height: 22px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 22px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: left;
+  white-space: pre;
+}
+
+.component-3--predeterminado {
+  position: relative;
+  flex-shrink: 0;
+  width: 362px;
+  height: 133px;
+}
+
+.component-3--estado-1 .component-3__estado-fisico-general {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 290px;
+  height: 36px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: left;
+  white-space: pre-wrap;
+}
+
+.component-3--estado-1 .component-3__rectangle-35 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 42px;
+  height: 23px;
+  background-color: #dddcd8;
+  border-radius: 10px;
+}
+
+.component-3--estado-1 .component-3__1-5 {
+  position: absolute;
+  left: 0px;
+  top: 1px;
+  width: 42px;
+  height: 21px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 22px;
+  color: #079ab3;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-3--estado-1 .component-3__group-2 {
+  position: absolute;
+  left: 320px;
+  top: 5px;
+  width: 42px;
+  height: 23px;
+}
+
+.component-3--estado-1 .component-3__rectangle-30 {
+  position: absolute;
+  left: 0px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  background-color: #079ab3;
+  border-radius: 10px;
+  outline: 1px solid #079ab3;
+  outline-offset: -0.5px;
+}
+
+.component-3--estado-1 .component-3__rectangle-31 {
+  position: absolute;
+  left: 150px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-3--estado-1 .component-3__rectangle-34 {
+  position: absolute;
+  left: 75px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-3--estado-1 .component-3__rectangle-32 {
+  position: absolute;
+  left: 302px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-3--estado-1 .component-3__rectangle-33 {
+  position: absolute;
+  left: 226px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-3--estado-1 .component-3__1 {
+  position: absolute;
+  left: 0px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 34px;
+  color: #f8f6f0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-3--estado-1 .component-3__2 {
+  position: absolute;
+  left: 75px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 34px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-3--estado-1 .component-3__3 {
+  position: absolute;
+  left: 150px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 34px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-3--estado-1 .component-3__4 {
+  position: absolute;
+  left: 226px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 34px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-3--estado-1 .component-3__5 {
+  position: absolute;
+  left: 302px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 34px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-3--estado-1 .component-3__muy-bajo {
+  position: absolute;
+  left: 0px;
+  top: 111px;
+  width: 67px;
+  height: 17.53px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 22px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: left;
+  white-space: pre-wrap;
+}
+
+.component-3--estado-1 .component-3__muy-alto {
+  position: absolute;
+  left: 299px;
+  top: 111px;
+  width: 63px;
+  height: 17.53px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 22px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: left;
+  white-space: pre-wrap;
+}
+
+.component-3--estado-1 {
+  position: relative;
+  flex-shrink: 0;
+  width: 362px;
+  height: 139px;
+}
+
+.component-3--estado-2 .component-3__estado-fisico-general {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 290px;
+  height: 36px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: left;
+  white-space: pre-wrap;
+}
+
+.component-3--estado-2 .component-3__rectangle-35 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 42px;
+  height: 23px;
+  background-color: #dddcd8;
+  border-radius: 10px;
+}
+
+.component-3--estado-2 .component-3__2-5 {
+  position: absolute;
+  left: 0px;
+  top: 1px;
+  width: 42px;
+  height: 21px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 22px;
+  color: #079ab3;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-3--estado-2 .component-3__group-2 {
+  position: absolute;
+  left: 320px;
+  top: 5px;
+  width: 42px;
+  height: 23px;
+}
+
+.component-3--estado-2 .component-3__rectangle-30 {
+  position: absolute;
+  left: 0px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  background-color: #079ab3;
+  border-radius: 10px;
+  outline: 1px solid #079ab3;
+  outline-offset: -0.5px;
+}
+
+.component-3--estado-2 .component-3__rectangle-31 {
+  position: absolute;
+  left: 150px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-3--estado-2 .component-3__rectangle-34 {
+  position: absolute;
+  left: 75px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  background-color: #079ab3;
+  border-radius: 10px;
+  outline: 1px solid #079ab3;
+  outline-offset: -0.5px;
+}
+
+.component-3--estado-2 .component-3__rectangle-32 {
+  position: absolute;
+  left: 302px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-3--estado-2 .component-3__rectangle-33 {
+  position: absolute;
+  left: 226px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-3--estado-2 .component-3__1 {
+  position: absolute;
+  left: 0px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 34px;
+  color: #f8f6f0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-3--estado-2 .component-3__2 {
+  position: absolute;
+  left: 75px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 34px;
+  color: #f8f6f0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-3--estado-2 .component-3__3 {
+  position: absolute;
+  left: 150px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 34px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-3--estado-2 .component-3__4 {
+  position: absolute;
+  left: 226px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 34px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-3--estado-2 .component-3__5 {
+  position: absolute;
+  left: 302px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 34px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-3--estado-2 .component-3__muy-bajo {
+  position: absolute;
+  left: 0px;
+  top: 111px;
+  width: 67px;
+  height: 16.4px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 22px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: left;
+  white-space: pre-wrap;
+}
+
+.component-3--estado-2 .component-3__muy-alto {
+  position: absolute;
+  left: 299px;
+  top: 111px;
+  width: 63px;
+  height: 16.4px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 22px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: left;
+  white-space: pre-wrap;
+}
+
+.component-3--estado-2 {
+  position: relative;
+  flex-shrink: 0;
+  width: 362px;
+  height: 130px;
+}
+
+.component-3--estado-3 .component-3__estado-fisico-general {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 290px;
+  height: 36px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: left;
+  white-space: pre-wrap;
+}
+
+.component-3--estado-3 .component-3__rectangle-35 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 42px;
+  height: 23px;
+  background-color: #dddcd8;
+  border-radius: 10px;
+}
+
+.component-3--estado-3 .component-3__3-5 {
+  position: absolute;
+  left: 0px;
+  top: 1px;
+  width: 42px;
+  height: 21px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 22px;
+  color: #079ab3;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-3--estado-3 .component-3__group-2 {
+  position: absolute;
+  left: 320px;
+  top: 5px;
+  width: 42px;
+  height: 23px;
+}
+
+.component-3--estado-3 .component-3__rectangle-30 {
+  position: absolute;
+  left: 0px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  background-color: #079ab3;
+  border-radius: 10px;
+  outline: 1px solid #079ab3;
+  outline-offset: -0.5px;
+}
+
+.component-3--estado-3 .component-3__rectangle-31 {
+  position: absolute;
+  left: 150px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  background-color: #079ab3;
+  border-radius: 10px;
+  outline: 1px solid #079ab3;
+  outline-offset: -0.5px;
+}
+
+.component-3--estado-3 .component-3__rectangle-34 {
+  position: absolute;
+  left: 75px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  background-color: #079ab3;
+  border-radius: 10px;
+  outline: 1px solid #079ab3;
+  outline-offset: -0.5px;
+}
+
+.component-3--estado-3 .component-3__rectangle-32 {
+  position: absolute;
+  left: 302px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-3--estado-3 .component-3__rectangle-33 {
+  position: absolute;
+  left: 226px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-3--estado-3 .component-3__1 {
+  position: absolute;
+  left: 0px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 34px;
+  color: #f8f6f0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-3--estado-3 .component-3__2 {
+  position: absolute;
+  left: 75px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 34px;
+  color: #f8f6f0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-3--estado-3 .component-3__3 {
+  position: absolute;
+  left: 150px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 34px;
+  color: #f8f6f0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-3--estado-3 .component-3__4 {
+  position: absolute;
+  left: 226px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 34px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-3--estado-3 .component-3__5 {
+  position: absolute;
+  left: 302px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 34px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-3--estado-3 .component-3__muy-bajo {
+  position: absolute;
+  left: 0px;
+  top: 111px;
+  width: 67px;
+  height: 16.65px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 22px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: left;
+  white-space: pre-wrap;
+}
+
+.component-3--estado-3 .component-3__muy-alto {
+  position: absolute;
+  left: 299px;
+  top: 111px;
+  width: 63px;
+  height: 16.65px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 22px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: left;
+  white-space: pre-wrap;
+}
+
+.component-3--estado-3 {
+  position: relative;
+  flex-shrink: 0;
+  width: 362px;
+  height: 132px;
+}
+
+.component-3--estado-4 .component-3__estado-fisico-general {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 290px;
+  height: 36px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: left;
+  white-space: pre-wrap;
+}
+
+.component-3--estado-4 .component-3__rectangle-35 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 42px;
+  height: 23px;
+  background-color: #dddcd8;
+  border-radius: 10px;
+}
+
+.component-3--estado-4 .component-3__4-5 {
+  position: absolute;
+  left: 0px;
+  top: 1px;
+  width: 42px;
+  height: 21px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 22px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-3--estado-4 .component-3__group-2 {
+  position: absolute;
+  left: 320px;
+  top: 5px;
+  width: 42px;
+  height: 23px;
+}
+
+.component-3--estado-4 .component-3__rectangle-30 {
+  position: absolute;
+  left: 0px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  background-color: #079ab3;
+  border-radius: 10px;
+  outline: 1px solid #079ab3;
+  outline-offset: -0.5px;
+}
+
+.component-3--estado-4 .component-3__rectangle-31 {
+  position: absolute;
+  left: 150px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  background-color: #079ab3;
+  border-radius: 10px;
+  outline: 1px solid #079ab3;
+  outline-offset: -0.5px;
+}
+
+.component-3--estado-4 .component-3__rectangle-34 {
+  position: absolute;
+  left: 75px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  background-color: #079ab3;
+  border-radius: 10px;
+  outline: 1px solid #079ab3;
+  outline-offset: -0.5px;
+}
+
+.component-3--estado-4 .component-3__rectangle-32 {
+  position: absolute;
+  left: 302px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-3--estado-4 .component-3__rectangle-33 {
+  position: absolute;
+  left: 226px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  background-color: #004753;
+  border-radius: 10px;
+  outline: 1px solid #004753;
+  outline-offset: -0.5px;
+}
+
+.component-3--estado-4 .component-3__1 {
+  position: absolute;
+  left: 0px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 34px;
+  color: #f8f6f0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-3--estado-4 .component-3__2 {
+  position: absolute;
+  left: 75px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 34px;
+  color: #f8f6f0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-3--estado-4 .component-3__3 {
+  position: absolute;
+  left: 150px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 34px;
+  color: #f8f6f0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-3--estado-4 .component-3__4 {
+  position: absolute;
+  left: 226px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 34px;
+  color: #f8f6f0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-3--estado-4 .component-3__5 {
+  position: absolute;
+  left: 302px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 34px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-3--estado-4 .component-3__muy-bajo {
+  position: absolute;
+  left: 0px;
+  top: 111px;
+  width: 67px;
+  height: 16.4px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 22px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: left;
+  white-space: pre-wrap;
+}
+
+.component-3--estado-4 .component-3__muy-alto {
+  position: absolute;
+  left: 299px;
+  top: 111px;
+  width: 63px;
+  height: 16.4px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 22px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: left;
+  white-space: pre-wrap;
+}
+
+.component-3--estado-4 {
+  position: relative;
+  flex-shrink: 0;
+  width: 362px;
+  height: 130px;
+}
+
+.component-3--estado-5 .component-3__estado-fisico-general {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 290px;
+  height: 36px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  color: #252525;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: left;
+  white-space: pre-wrap;
+}
+
+.component-3--estado-5 .component-3__rectangle-35 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 42px;
+  height: 23px;
+  background-color: #dddcd8;
+  border-radius: 10px;
+}
+
+.component-3--estado-5 .component-3__5-5 {
+  position: absolute;
+  left: 0px;
+  top: 1px;
+  width: 42px;
+  height: 21px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 22px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-3--estado-5 .component-3__group-2 {
+  position: absolute;
+  left: 320px;
+  top: 5px;
+  width: 42px;
+  height: 23px;
+}
+
+.component-3--estado-5 .component-3__rectangle-30 {
+  position: absolute;
+  left: 0px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  background-color: #079ab3;
+  border-radius: 10px;
+  outline: 1px solid #079ab3;
+  outline-offset: -0.5px;
+}
+
+.component-3--estado-5 .component-3__rectangle-31 {
+  position: absolute;
+  left: 150px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  background-color: #079ab3;
+  border-radius: 10px;
+  outline: 1px solid #079ab3;
+  outline-offset: -0.5px;
+}
+
+.component-3--estado-5 .component-3__rectangle-34 {
+  position: absolute;
+  left: 75px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  background-color: #079ab3;
+  border-radius: 10px;
+  outline: 1px solid #079ab3;
+  outline-offset: -0.5px;
+}
+
+.component-3--estado-5 .component-3__rectangle-32 {
+  position: absolute;
+  left: 302px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  background-color: #004753;
+  border-radius: 10px;
+  outline: 1px solid #004753;
+  outline-offset: -0.5px;
+}
+
+.component-3--estado-5 .component-3__rectangle-33 {
+  position: absolute;
+  left: 226px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  background-color: #004753;
+  border-radius: 10px;
+  outline: 1px solid #004753;
+  outline-offset: -0.5px;
+}
+
+.component-3--estado-5 .component-3__1 {
+  position: absolute;
+  left: 0px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 34px;
+  color: #f8f6f0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-3--estado-5 .component-3__2 {
+  position: absolute;
+  left: 75px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 34px;
+  color: #f8f6f0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-3--estado-5 .component-3__3 {
+  position: absolute;
+  left: 150px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 34px;
+  color: #f8f6f0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-3--estado-5 .component-3__4 {
+  position: absolute;
+  left: 226px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 34px;
+  color: #f8f6f0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-3--estado-5 .component-3__5 {
+  position: absolute;
+  left: 302px;
+  top: 46px;
+  width: 60px;
+  height: 60px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 34px;
+  color: #f8f6f0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-3--estado-5 .component-3__muy-bajo {
+  position: absolute;
+  left: 0px;
+  top: 111px;
+  width: 67px;
+  height: 16.78px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 22px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: left;
+  white-space: pre-wrap;
+}
+
+.component-3--estado-5 .component-3__muy-alto {
+  position: absolute;
+  left: 299px;
+  top: 111px;
+  width: 63px;
+  height: 16.78px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 22px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: left;
+  white-space: pre-wrap;
+}
+
+.component-3--estado-5 {
+  position: relative;
+  flex-shrink: 0;
+  width: 362px;
+  height: 133px;
+}
+
+/* Component 2 — exportado de Figma ("Piki") */
+
+.component-2--predeterminado .component-2__rectangle-33 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 60px;
+  height: 60px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: 0px;
+}
+
+.component-2--predeterminado .component-2__vector {
+  position: absolute;
+  left: -1.15px;
+  top: -1.15px;
+  width: 28.3px;
+  height: 28.3px;
+}
+
+.component-2--predeterminado .component-2__vector-2 {
+  position: absolute;
+  left: 6.65px;
+  top: 7.88px;
+  width: 12.7px;
+  height: 2.43px;
+}
+
+.component-2--predeterminado .component-2__vector-3 {
+  position: absolute;
+  left: 6.65px;
+  top: 13.15px;
+  width: 12.7px;
+  height: 7.5px;
+}
+
+.component-2--predeterminado .component-2__group {
+  position: absolute;
+  left: 17px;
+  top: 7px;
+  width: 26px;
+  height: 26px;
+}
+
+.component-2--predeterminado .component-2__vector-4 {
+  position: absolute;
+  left: -1.15px;
+  top: -1.15px;
+  width: 28.3px;
+  height: 28.3px;
+}
+
+.component-2--predeterminado .component-2__vector-5 {
+  position: absolute;
+  left: 6.65px;
+  top: 7.88px;
+  width: 12.7px;
+  height: 2.43px;
+}
+
+.component-2--predeterminado .component-2__vector-6 {
+  position: absolute;
+  left: 6.65px;
+  top: 14.45px;
+  width: 12.7px;
+  height: 6.2px;
+}
+
+.component-2--predeterminado .component-2__group-2 {
+  position: absolute;
+  left: 17px;
+  top: 7px;
+  width: 26px;
+  height: 26px;
+}
+
+.component-2--predeterminado .component-2__regular {
+  position: absolute;
+  left: 0px;
+  top: 35px;
+  width: 60px;
+  height: 21px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 22px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-2--predeterminado .component-2__vector-7 {
+  position: absolute;
+  left: -1.15px;
+  top: -1.15px;
+  width: 28.3px;
+  height: 28.3px;
+}
+
+.component-2--predeterminado .component-2__vector-8 {
+  position: absolute;
+  left: 6.65px;
+  top: 7.88px;
+  width: 12.7px;
+  height: 8.86px;
+}
+
+.component-2--predeterminado .component-2__group-3 {
+  position: absolute;
+  left: 17px;
+  top: 7px;
+  width: 26px;
+  height: 26px;
+}
+
+.component-2--predeterminado .component-2__vector-9 {
+  position: absolute;
+  left: -1.15px;
+  top: -1.15px;
+  width: 28.3px;
+  height: 28.3px;
+}
+
+.component-2--predeterminado .component-2__vector-10 {
+  position: absolute;
+  left: 6.65px;
+  top: 7.88px;
+  width: 12.7px;
+  height: 2.43px;
+}
+
+.component-2--predeterminado .component-2__vector-11 {
+  position: absolute;
+  left: 6.65px;
+  top: 13.15px;
+  width: 12.7px;
+  height: 6.2px;
+}
+
+.component-2--predeterminado .component-2__group-4 {
+  position: absolute;
+  left: 17px;
+  top: 7px;
+  width: 26px;
+  height: 26px;
+}
+
+.component-2--predeterminado .component-2__vector-12 {
+  position: absolute;
+  left: -1.15px;
+  top: -1.15px;
+  width: 28.3px;
+  height: 28.3px;
+}
+
+.component-2--predeterminado .component-2__vector-13 {
+  position: absolute;
+  left: 6.65px;
+  top: 7.88px;
+  width: 12.7px;
+  height: 2.43px;
+}
+
+.component-2--predeterminado .component-2__vector-14 {
+  position: absolute;
+  left: 6.65px;
+  top: 14.45px;
+  width: 12.7px;
+  height: 7.5px;
+}
+
+.component-2--predeterminado .component-2__group-5 {
+  position: absolute;
+  left: 17px;
+  top: 7px;
+  width: 26px;
+  height: 26px;
+}
+
+.component-2--predeterminado {
+  position: relative;
+  flex-shrink: 0;
+  width: 60px;
+  height: 60px;
+}
+
+.component-2--variante-2 .component-2__rectangle-33 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 60px;
+  height: 60px;
+  background-color: #004753;
+  border-radius: 10px;
+  outline: 2px solid #004753;
+  outline-offset: 0px;
+}
+
+.component-2--variante-2 .component-2__vector {
+  position: absolute;
+  left: -1.15px;
+  top: -1.15px;
+  width: 28.3px;
+  height: 28.3px;
+}
+
+.component-2--variante-2 .component-2__vector-2 {
+  position: absolute;
+  left: 6.65px;
+  top: 7.88px;
+  width: 12.7px;
+  height: 2.43px;
+}
+
+.component-2--variante-2 .component-2__vector-3 {
+  position: absolute;
+  left: 6.65px;
+  top: 13.15px;
+  width: 12.7px;
+  height: 7.5px;
+}
+
+.component-2--variante-2 .component-2__group {
+  position: absolute;
+  left: 17px;
+  top: 7px;
+  width: 26px;
+  height: 26px;
+}
+
+.component-2--variante-2 .component-2__vector-4 {
+  position: absolute;
+  left: -1.15px;
+  top: -1.15px;
+  width: 28.3px;
+  height: 28.3px;
+}
+
+.component-2--variante-2 .component-2__vector-5 {
+  position: absolute;
+  left: 6.65px;
+  top: 7.88px;
+  width: 12.7px;
+  height: 2.43px;
+}
+
+.component-2--variante-2 .component-2__vector-6 {
+  position: absolute;
+  left: 6.65px;
+  top: 14.45px;
+  width: 12.7px;
+  height: 6.2px;
+}
+
+.component-2--variante-2 .component-2__group-2 {
+  position: absolute;
+  left: 17px;
+  top: 7px;
+  width: 26px;
+  height: 26px;
+}
+
+.component-2--variante-2 .component-2__regular {
+  position: absolute;
+  left: 0px;
+  top: 35px;
+  width: 60px;
+  height: 21px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 22px;
+  color: #f8f6f0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-2--variante-2 .component-2__vector-7 {
+  position: absolute;
+  left: -1.15px;
+  top: -1.15px;
+  width: 28.3px;
+  height: 28.3px;
+}
+
+.component-2--variante-2 .component-2__vector-8 {
+  position: absolute;
+  left: 6.65px;
+  top: 7.88px;
+  width: 12.7px;
+  height: 8.86px;
+}
+
+.component-2--variante-2 .component-2__group-3 {
+  position: absolute;
+  left: 17px;
+  top: 7px;
+  width: 26px;
+  height: 26px;
+}
+
+.component-2--variante-2 .component-2__vector-9 {
+  position: absolute;
+  left: -1.15px;
+  top: -1.15px;
+  width: 28.3px;
+  height: 28.3px;
+}
+
+.component-2--variante-2 .component-2__vector-10 {
+  position: absolute;
+  left: 6.65px;
+  top: 7.88px;
+  width: 12.7px;
+  height: 2.43px;
+}
+
+.component-2--variante-2 .component-2__vector-11 {
+  position: absolute;
+  left: 6.65px;
+  top: 13.15px;
+  width: 12.7px;
+  height: 6.2px;
+}
+
+.component-2--variante-2 .component-2__group-4 {
+  position: absolute;
+  left: 17px;
+  top: 7px;
+  width: 26px;
+  height: 26px;
+}
+
+.component-2--variante-2 .component-2__vector-12 {
+  position: absolute;
+  left: -1.15px;
+  top: -1.15px;
+  width: 28.3px;
+  height: 28.3px;
+}
+
+.component-2--variante-2 .component-2__vector-13 {
+  position: absolute;
+  left: 6.65px;
+  top: 7.88px;
+  width: 12.7px;
+  height: 2.43px;
+}
+
+.component-2--variante-2 .component-2__vector-14 {
+  position: absolute;
+  left: 6.65px;
+  top: 14.45px;
+  width: 12.7px;
+  height: 7.5px;
+}
+
+.component-2--variante-2 .component-2__group-5 {
+  position: absolute;
+  left: 17px;
+  top: 7px;
+  width: 26px;
+  height: 26px;
+}
+
+.component-2--variante-2 {
+  position: relative;
+  flex-shrink: 0;
+  width: 60px;
+  height: 60px;
+}
+
+/* Component 26 — exportado de Figma ("Piki") */
+
+.component-26--predeterminado .component-26__rectangle-25 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 362px;
+  height: 65px;
+  background-color: #dddcd8;
+  border-radius: 10px;
+}
+
+.component-26--predeterminado .component-26__veces {
+  position: absolute;
+  left: 10px;
+  top: 7px;
+  width: 268px;
+  height: 30px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+  white-space: pre-wrap;
+}
+
+.component-26--predeterminado .component-26__descripcion {
+  position: absolute;
+  left: 10px;
+  top: 37px;
+  width: 268px;
+  height: 21px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 22px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+  white-space: pre-wrap;
+}
+
+.component-26--predeterminado .component-26__ellipse-4 {
+  position: absolute;
+  left: 309px;
+  top: 21px;
+  width: 24px;
+  height: 24px;
+}
+
+.component-26--predeterminado .component-26__ellipse-5 {
+  position: absolute;
+  left: 314px;
+  top: 26px;
+  width: 14px;
+  height: 14px;
+  opacity: 0;
+  background-color: #929292;
+  border-radius: 50%;
+}
+
+.component-26--predeterminado {
+  position: relative;
+  flex-shrink: 0;
+  width: 362px;
+  height: 65px;
+}
+
+.component-26--variante-2 .component-26__rectangle-25 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 362px;
+  height: 65px;
+  background-color: #dddcd8;
+  border-radius: 10px;
+}
+
+.component-26--variante-2 .component-26__veces {
+  position: absolute;
+  left: 10px;
+  top: 7px;
+  width: 268px;
+  height: 30px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+  white-space: pre-wrap;
+}
+
+.component-26--variante-2 .component-26__descripcion {
+  position: absolute;
+  left: 10px;
+  top: 37px;
+  width: 268px;
+  height: 21px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 22px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+  white-space: pre-wrap;
+}
+
+.component-26--variante-2 .component-26__ellipse-4 {
+  position: absolute;
+  left: 309px;
+  top: 21px;
+  width: 24px;
+  height: 24px;
+}
+
+.component-26--variante-2 .component-26__ellipse-5 {
+  position: absolute;
+  left: 314px;
+  top: 26px;
+  width: 14px;
+  height: 14px;
+  background-color: #004753;
+  border-radius: 50%;
+}
+
+.component-26--variante-2 {
+  position: relative;
+  flex-shrink: 0;
+  width: 362px;
+  height: 65px;
+}
+
+/* Component 27 — exportado de Figma ("Piki") */
+
+.component-27--predeterminado .component-27__rectangle-25 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 362px;
+  height: 65px;
+  background-color: #dddcd8;
+  border-radius: 10px;
+}
+
+.component-27--predeterminado .component-27__veces {
+  position: absolute;
+  left: 10px;
+  top: 7px;
+  width: 277px;
+  height: 30px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+  white-space: pre-wrap;
+}
+
+.component-27--predeterminado .component-27__descripcion {
+  position: absolute;
+  left: 10px;
+  top: 37px;
+  width: 268px;
+  height: 21px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 22px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+  white-space: pre-wrap;
+}
+
+.component-27--predeterminado .component-27__ellipse-5 {
+  position: absolute;
+  left: 296.5px;
+  top: 24.5px;
+  width: 17px;
+  height: 17px;
+}
+
+.component-27--predeterminado .component-27__rectangle-124 {
+  position: absolute;
+  left: 293px;
+  top: 22px;
+  width: 39px;
+  height: 22px;
+  border-radius: 10px;
+  outline: 2px solid #8b877a;
+  outline-offset: -1px;
+}
+
+.component-27--predeterminado {
+  position: relative;
+  flex-shrink: 0;
+  width: 362px;
+  height: 65px;
+}
+
+.component-27--variante-2 .component-27__rectangle-25 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 362px;
+  height: 65px;
+  background-color: #dddcd8;
+  border-radius: 10px;
+}
+
+.component-27--variante-2 .component-27__veces {
+  position: absolute;
+  left: 10px;
+  top: 7px;
+  width: 283px;
+  height: 30px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+  white-space: pre-wrap;
+}
+
+.component-27--variante-2 .component-27__descripcion {
+  position: absolute;
+  left: 10px;
+  top: 37px;
+  width: 268px;
+  height: 21px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 22px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+  white-space: pre-wrap;
+}
+
+.component-27--variante-2 .component-27__ellipse-5 {
+  position: absolute;
+  left: 312px;
+  top: 25px;
+  width: 16px;
+  height: 16px;
+  background-color: #004753;
+  border-radius: 50%;
+}
+
+.component-27--variante-2 .component-27__rectangle-124 {
+  position: absolute;
+  left: 293px;
+  top: 22px;
+  width: 39px;
+  height: 22px;
+  border-radius: 10px;
+  outline: 2px solid #004753;
+  outline-offset: -1px;
+}
+
+.component-27--variante-2 {
+  position: relative;
+  flex-shrink: 0;
+  width: 362px;
+  height: 65px;
+}
+
+/* Component 28 — exportado de Figma ("Piki") */
+
+.component-28--predeterminado .component-28__rectangle-251 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 30px;
+  height: 30px;
+  border-radius: 10px;
+  outline: 1px solid #004753;
+  outline-offset: -0.5px;
+}
+
+.component-28--predeterminado {
+  position: relative;
+  flex-shrink: 0;
+  width: 30px;
+  height: 30px;
+}
+
+.component-28--variante-2 .component-28__rectangle-251 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 30px;
+  height: 30px;
+  background-color: #004753;
+  border-radius: 10px;
+}
+
+.component-28--variante-2 .component-28__vector {
+  position: absolute;
+  left: 6px;
+  top: 7px;
+  width: 19px;
+  height: 16px;
+}
+
+.component-28--variante-2 {
+  position: relative;
+  flex-shrink: 0;
+  width: 30px;
+  height: 30px;
+}
+
+/* Component 24 — exportado de Figma ("Piki") */
+
+.component-24--predeterminado .component-24__rectangle-123 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 40px;
+  height: 40px;
+  border-radius: 10px;
+  outline: 1px solid #004753;
+  outline-offset: -0.5px;
+}
+
+.component-24--predeterminado .component-24__lu {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 40px;
+  height: 40px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-24--predeterminado {
+  position: relative;
+  flex-shrink: 0;
+  width: 40px;
+  height: 40px;
+}
+
+.component-24--variante-2 .component-24__rectangle-123 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 40px;
+  height: 40px;
+  background-color: #004753;
+  border-radius: 10px;
+}
+
+.component-24--variante-2 .component-24__lu {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 40px;
+  height: 40px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  color: #f8f6f0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-24--variante-2 {
+  position: relative;
+  flex-shrink: 0;
+  width: 40px;
+  height: 40px;
+}
+
+/* Ellipse 1 — exportado de Figma ("Piki") */
+
+.ellipse-1--predeterminado .ellipse-1__ellipse-1 {
+  position: absolute;
+  left: -1.02px;
+  top: -0.52px;
+  width: 91.02px;
+  height: 90.03px;
+}
+
+.ellipse-1--predeterminado {
+  position: relative;
+  flex-shrink: 0;
+  width: 88px;
+  height: 88px;
+}
+
+.ellipse-1--variante-2 .ellipse-1__ellipse-1 {
+  position: absolute;
+  left: -0.52px;
+  top: -2px;
+  width: 90.03px;
+  height: 91.02px;
+}
+
+.ellipse-1--variante-2 {
+  position: relative;
+  flex-shrink: 0;
+  width: 88px;
+  height: 88px;
+}
+
+.ellipse-1--variante-3 .ellipse-1__ellipse-1 {
+  position: absolute;
+  left: -2px;
+  top: -1.51px;
+  width: 91.02px;
+  height: 90.03px;
+}
+
+.ellipse-1--variante-3 {
+  position: relative;
+  flex-shrink: 0;
+  width: 88px;
+  height: 88px;
+}
+
+.ellipse-1--variante-4 .ellipse-1__ellipse-1 {
+  position: absolute;
+  left: -1.51px;
+  top: -1.02px;
+  width: 90.03px;
+  height: 91.02px;
+}
+
+.ellipse-1--variante-4 {
+  position: relative;
+  flex-shrink: 0;
+  width: 88px;
+  height: 88px;
+}
+
+/* Component 19 — exportado de Figma ("Piki") */
+
+.component-19--predeterminado .component-19__rectangle-29 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 362px;
+  height: 40px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-19--predeterminado .component-19__nombre-del-evento {
+  position: absolute;
+  left: 18px;
+  top: 3px;
+  width: 327px;
+  height: 33px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+  white-space: pre-wrap;
+}
+
+.component-19--predeterminado {
+  position: relative;
+  flex-shrink: 0;
+  width: 362px;
+  height: 40px;
+}
+
+.component-19--variante-2 .component-19__rectangle-29 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 362px;
+  height: 40px;
+  border-radius: 10px;
+  outline: 1px solid #004753;
+  outline-offset: -0.5px;
+}
+
+.component-19--variante-2 .component-19__examen-ingles {
+  position: absolute;
+  left: 18px;
+  top: 3px;
+  width: 328px;
+  height: 33px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+  white-space: pre-wrap;
+}
+
+.component-19--variante-2 {
+  position: relative;
+  flex-shrink: 0;
+  width: 362px;
+  height: 40px;
+}
+
+/* Component 29 — exportado de Figma ("Piki") */
+
+.component-29--predeterminado .component-29__rectangle-29 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 362px;
+  height: 40px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-29--predeterminado .component-29__deporte {
+  position: absolute;
+  left: 18px;
+  top: 3px;
+  width: 327px;
+  height: 33px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+  white-space: pre-wrap;
+}
+
+.component-29--predeterminado {
+  position: relative;
+  flex-shrink: 0;
+  width: 362px;
+  height: 40px;
+}
+
+.component-29--variante-2 .component-29__rectangle-29 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 362px;
+  height: 40px;
+  border-radius: 10px;
+  outline: 1px solid #004753;
+  outline-offset: -0.5px;
+}
+
+.component-29--variante-2 .component-29__futbol {
+  position: absolute;
+  left: 18px;
+  top: 3px;
+  width: 328px;
+  height: 33px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+  white-space: pre-wrap;
+}
+
+.component-29--variante-2 {
+  position: relative;
+  flex-shrink: 0;
+  width: 362px;
+  height: 40px;
+}
+
+/* Component 22 — exportado de Figma ("Piki") */
+
+.component-22--predeterminado .component-22__rectangle-29 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 362px;
+  height: 40px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-22--predeterminado .component-22__lugar {
+  position: absolute;
+  left: 18px;
+  top: 3px;
+  width: 193px;
+  height: 33px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+  white-space: pre-wrap;
+}
+
+.component-22--predeterminado {
+  position: relative;
+  flex-shrink: 0;
+  width: 362px;
+  height: 40px;
+}
+
+.component-22--variante-2 .component-22__rectangle-29 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 362px;
+  height: 40px;
+  border-radius: 10px;
+  outline: 1px solid #004753;
+  outline-offset: -0.5px;
+}
+
+.component-22--variante-2 .component-22__medico {
+  position: absolute;
+  left: 18px;
+  top: 3px;
+  width: 193px;
+  height: 33px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+  white-space: pre-wrap;
+}
+
+.component-22--variante-2 {
+  position: relative;
+  flex-shrink: 0;
+  width: 362px;
+  height: 40px;
+}
+
+/* Component 30 — exportado de Figma ("Piki") */
+
+.component-30--predeterminado .component-30__rectangle-29 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 362px;
+  height: 40px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-30--predeterminado .component-30__texto {
+  position: absolute;
+  left: 18px;
+  top: 3px;
+  width: 327px;
+  height: 33px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+  white-space: pre-wrap;
+}
+
+.component-30--predeterminado {
+  position: relative;
+  flex-shrink: 0;
+  width: 362px;
+  height: 40px;
+}
+
+.component-30--variante-2 .component-30__rectangle-29 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 362px;
+  height: 40px;
+  border-radius: 10px;
+  outline: 1px solid #004753;
+  outline-offset: -0.5px;
+}
+
+.component-30--variante-2 .component-30__texto {
+  position: absolute;
+  left: 18px;
+  top: 3px;
+  width: 328px;
+  height: 33px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+  white-space: pre-wrap;
+}
+
+.component-30--variante-2 {
+  position: relative;
+  flex-shrink: 0;
+  width: 362px;
+  height: 40px;
+}
+
+/* Component 20 — exportado de Figma ("Piki") */
+
+.component-20--predeterminado .component-20__rectangle-29 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 171px;
+  height: 40px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-20--predeterminado .component-20__fecha {
+  position: absolute;
+  left: 18px;
+  top: 3px;
+  width: 144px;
+  height: 33px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+  white-space: pre-wrap;
+}
+
+.component-20--predeterminado {
+  position: relative;
+  flex-shrink: 0;
+  width: 171px;
+  height: 40px;
+}
+
+.component-20--variante-2 .component-20__rectangle-29 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 171px;
+  height: 40px;
+  border-radius: 10px;
+  outline: 1px solid #004753;
+  outline-offset: -0.5px;
+}
+
+.component-20--variante-2 .component-20__18-09-2026 {
+  position: absolute;
+  left: 18px;
+  top: 3px;
+  width: 144px;
+  height: 33px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+  white-space: pre-wrap;
+}
+
+.component-20--variante-2 {
+  position: relative;
+  flex-shrink: 0;
+  width: 171px;
+  height: 40px;
+}
+
+/* Component 21 — exportado de Figma ("Piki") */
+
+.component-21--predeterminado .component-21__rectangle-29 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 171px;
+  height: 40px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-21--predeterminado .component-21__hora {
+  position: absolute;
+  left: 18px;
+  top: 3px;
+  width: 144px;
+  height: 33px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+  white-space: pre-wrap;
+}
+
+.component-21--predeterminado {
+  position: relative;
+  flex-shrink: 0;
+  width: 171px;
+  height: 40px;
+}
+
+.component-21--variante-2 .component-21__rectangle-29 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 171px;
+  height: 40px;
+  border-radius: 10px;
+  outline: 1px solid #004753;
+  outline-offset: -0.5px;
+}
+
+.component-21--variante-2 .component-21__15-00 {
+  position: absolute;
+  left: 18px;
+  top: 3px;
+  width: 144px;
+  height: 33px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+  white-space: pre-wrap;
+}
+
+.component-21--variante-2 {
+  position: relative;
+  flex-shrink: 0;
+  width: 171px;
+  height: 40px;
+}
+
+/* Component 18 — exportado de Figma ("Piki") */
+
+.component-18--predeterminado .component-18__rectangle-42 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 170px;
+  height: 45px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-18--predeterminado .component-18__todos {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 170px;
+  height: 45px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-18--predeterminado .component-18__component-4 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 170px;
+  height: 45px;
+}
+
+.component-18--predeterminado .component-18__rectangle-42-2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 170px;
+  height: 45px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-18--predeterminado .component-18__todos-2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 170px;
+  height: 45px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-18--predeterminado .component-18__component-16 {
+  position: absolute;
+  left: 0px;
+  top: 55px;
+  width: 170px;
+  height: 45px;
+}
+
+.component-18--predeterminado .component-18__rectangle-42-3 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 170px;
+  height: 45px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-18--predeterminado .component-18__todos-3 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 170px;
+  height: 45px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-18--predeterminado .component-18__component-15 {
+  position: absolute;
+  left: 190px;
+  top: 0px;
+  width: 170px;
+  height: 45px;
+}
+
+.component-18--predeterminado .component-18__rectangle-42-4 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 170px;
+  height: 45px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-18--predeterminado .component-18__todos-4 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 170px;
+  height: 45px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-18--predeterminado .component-18__component-17 {
+  position: absolute;
+  left: 190px;
+  top: 55px;
+  width: 170px;
+  height: 45px;
+}
+
+.component-18--predeterminado {
+  position: relative;
+  flex-shrink: 0;
+  width: 360px;
+  height: 110px;
+}
+
+.component-18--variante-2 .component-18__rectangle-42 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 170px;
+  height: 45px;
+  background-color: #004753;
+  border-radius: 10px;
+}
+
+.component-18--variante-2 .component-18__todos {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 170px;
+  height: 45px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #f8f6f0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-18--variante-2 .component-18__component-4 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 170px;
+  height: 45px;
+}
+
+.component-18--variante-2 .component-18__rectangle-42-2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 170px;
+  height: 45px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-18--variante-2 .component-18__todos-2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 170px;
+  height: 45px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-18--variante-2 .component-18__component-16 {
+  position: absolute;
+  left: 0px;
+  top: 55px;
+  width: 170px;
+  height: 45px;
+}
+
+.component-18--variante-2 .component-18__rectangle-42-3 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 170px;
+  height: 45px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-18--variante-2 .component-18__todos-3 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 170px;
+  height: 45px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-18--variante-2 .component-18__component-15 {
+  position: absolute;
+  left: 190px;
+  top: 0px;
+  width: 170px;
+  height: 45px;
+}
+
+.component-18--variante-2 .component-18__rectangle-42-4 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 170px;
+  height: 45px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-18--variante-2 .component-18__todos-4 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 170px;
+  height: 45px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-18--variante-2 .component-18__component-17 {
+  position: absolute;
+  left: 190px;
+  top: 55px;
+  width: 170px;
+  height: 45px;
+}
+
+.component-18--variante-2 {
+  position: relative;
+  flex-shrink: 0;
+  width: 360px;
+  height: 110px;
+}
+
+.component-18--variante-3 .component-18__rectangle-42 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 170px;
+  height: 45px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-18--variante-3 .component-18__todos {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 170px;
+  height: 45px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-18--variante-3 .component-18__component-4 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 170px;
+  height: 45px;
+}
+
+.component-18--variante-3 .component-18__rectangle-42-2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 170px;
+  height: 45px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-18--variante-3 .component-18__todos-2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 170px;
+  height: 45px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-18--variante-3 .component-18__component-16 {
+  position: absolute;
+  left: 0px;
+  top: 55px;
+  width: 170px;
+  height: 45px;
+}
+
+.component-18--variante-3 .component-18__rectangle-42-3 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 170px;
+  height: 45px;
+  background-color: #004753;
+  border-radius: 10px;
+}
+
+.component-18--variante-3 .component-18__todos-3 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 170px;
+  height: 45px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #f8f6f0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-18--variante-3 .component-18__component-15 {
+  position: absolute;
+  left: 190px;
+  top: 0px;
+  width: 170px;
+  height: 45px;
+}
+
+.component-18--variante-3 .component-18__rectangle-42-4 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 170px;
+  height: 45px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-18--variante-3 .component-18__todos-4 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 170px;
+  height: 45px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-18--variante-3 .component-18__component-17 {
+  position: absolute;
+  left: 190px;
+  top: 55px;
+  width: 170px;
+  height: 45px;
+}
+
+.component-18--variante-3 {
+  position: relative;
+  flex-shrink: 0;
+  width: 360px;
+  height: 110px;
+}
+
+.component-18--variante-4 .component-18__rectangle-42 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 170px;
+  height: 45px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-18--variante-4 .component-18__todos {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 170px;
+  height: 45px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-18--variante-4 .component-18__component-4 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 170px;
+  height: 45px;
+}
+
+.component-18--variante-4 .component-18__rectangle-42-2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 170px;
+  height: 45px;
+  background-color: #004753;
+  border-radius: 10px;
+}
+
+.component-18--variante-4 .component-18__todos-2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 170px;
+  height: 45px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #f8f6f0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-18--variante-4 .component-18__component-16 {
+  position: absolute;
+  left: 0px;
+  top: 55px;
+  width: 170px;
+  height: 45px;
+}
+
+.component-18--variante-4 .component-18__rectangle-42-3 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 170px;
+  height: 45px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-18--variante-4 .component-18__todos-3 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 170px;
+  height: 45px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-18--variante-4 .component-18__component-15 {
+  position: absolute;
+  left: 190px;
+  top: 0px;
+  width: 170px;
+  height: 45px;
+}
+
+.component-18--variante-4 .component-18__rectangle-42-4 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 170px;
+  height: 45px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-18--variante-4 .component-18__todos-4 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 170px;
+  height: 45px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-18--variante-4 .component-18__component-17 {
+  position: absolute;
+  left: 190px;
+  top: 55px;
+  width: 170px;
+  height: 45px;
+}
+
+.component-18--variante-4 {
+  position: relative;
+  flex-shrink: 0;
+  width: 360px;
+  height: 110px;
+}
+
+.component-18--variante-5 .component-18__rectangle-42 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 170px;
+  height: 45px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-18--variante-5 .component-18__todos {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 170px;
+  height: 45px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-18--variante-5 .component-18__component-4 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 170px;
+  height: 45px;
+}
+
+.component-18--variante-5 .component-18__rectangle-42-2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 170px;
+  height: 45px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-18--variante-5 .component-18__todos-2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 170px;
+  height: 45px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-18--variante-5 .component-18__component-16 {
+  position: absolute;
+  left: 0px;
+  top: 55px;
+  width: 170px;
+  height: 45px;
+}
+
+.component-18--variante-5 .component-18__rectangle-42-3 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 170px;
+  height: 45px;
+  border-radius: 10px;
+  outline: 1px solid #8b877a;
+  outline-offset: -0.5px;
+}
+
+.component-18--variante-5 .component-18__todos-3 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 170px;
+  height: 45px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #8b877a;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-18--variante-5 .component-18__component-15 {
+  position: absolute;
+  left: 190px;
+  top: 0px;
+  width: 170px;
+  height: 45px;
+}
+
+.component-18--variante-5 .component-18__rectangle-42-4 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 170px;
+  height: 45px;
+  background-color: #004753;
+  border-radius: 10px;
+}
+
+.component-18--variante-5 .component-18__todos-4 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 170px;
+  height: 45px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #f8f6f0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.component-18--variante-5 .component-18__component-17 {
+  position: absolute;
+  left: 190px;
+  top: 55px;
+  width: 170px;
+  height: 45px;
+}
+
+.component-18--variante-5 {
+  position: relative;
+  flex-shrink: 0;
+  width: 360px;
+  height: 110px;
+}
+
+/* hombroderecho — exportado de Figma ("Piki") */
+
+.hombroderecho--predeterminado .hombroderecho__ellipse-2 {
+  position: absolute;
+  left: -1px;
+  top: -1px;
+  width: 40px;
+  height: 40px;
+}
+
+.hombroderecho--predeterminado .hombroderecho__ellipse-3 {
+  position: absolute;
+  left: 6px;
+  top: 6px;
+  width: 26px;
+  height: 26px;
+  background-color: #000000;
+  border-radius: 50%;
+}
+
+.hombroderecho--predeterminado {
+  position: relative;
+  flex-shrink: 0;
+  width: 38px;
+  height: 38px;
+}
+
+.hombroderecho--verde .hombroderecho__ellipse-2 {
+  position: absolute;
+  left: -1px;
+  top: -1px;
+  width: 40px;
+  height: 40px;
+}
+
+.hombroderecho--verde .hombroderecho__ellipse-3 {
+  position: absolute;
+  left: 6px;
+  top: 6px;
+  width: 26px;
+  height: 26px;
+  background-color: #649d00;
+  border-radius: 50%;
+}
+
+.hombroderecho--verde {
+  position: relative;
+  flex-shrink: 0;
+  width: 38px;
+  height: 38px;
+}
+
+.hombroderecho--naranja .hombroderecho__ellipse-2 {
+  position: absolute;
+  left: -1px;
+  top: -1px;
+  width: 40px;
+  height: 40px;
+}
+
+.hombroderecho--naranja .hombroderecho__ellipse-3 {
+  position: absolute;
+  left: 6px;
+  top: 6px;
+  width: 26px;
+  height: 26px;
+  background-color: #079ab3;
+  border-radius: 50%;
+}
+
+.hombroderecho--naranja {
+  position: relative;
+  flex-shrink: 0;
+  width: 38px;
+  height: 38px;
+}
+
+.hombroderecho--rojo .hombroderecho__ellipse-2 {
+  position: absolute;
+  left: -1px;
+  top: -1px;
+  width: 40px;
+  height: 40px;
+}
+
+.hombroderecho--rojo .hombroderecho__ellipse-3 {
+  position: absolute;
+  left: 6px;
+  top: 6px;
+  width: 26px;
+  height: 26px;
+  background-color: #004753;
+  border-radius: 50%;
+}
+
+.hombroderecho--rojo {
+  position: relative;
+  flex-shrink: 0;
+  width: 38px;
+  height: 38px;
+}
+
+/* ventana hombro derecho — exportado de Figma ("Piki") */
+
+.ventana-hombro-derecho .ventana-hombro-derecho__rectangle-52 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 362px;
+  height: 159px;
+  background-color: #f8f6f0;
+  border-radius: 10px;
+  outline: 1px solid #004753;
+  outline-offset: -0.5px;
+}
+
+.ventana-hombro-derecho .ventana-hombro-derecho__como-sentis-esta-zona {
+  position: absolute;
+  left: 10px;
+  top: 9px;
+  width: 340px;
+  height: 30px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+  white-space: pre-wrap;
+}
+
+.ventana-hombro-derecho .ventana-hombro-derecho__fatiga {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 80px;
+  height: 90px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.ventana-hombro-derecho .ventana-hombro-derecho__ellipse-2 {
+  position: absolute;
+  left: -1px;
+  top: -1px;
+  width: 40px;
+  height: 40px;
+}
+
+.ventana-hombro-derecho .ventana-hombro-derecho__ellipse-3 {
+  position: absolute;
+  left: 6px;
+  top: 6px;
+  width: 26px;
+  height: 26px;
+  background-color: #649d00;
+  border-radius: 50%;
+}
+
+.ventana-hombro-derecho .ventana-hombro-derecho__hombroderecho {
+  position: absolute;
+  left: 21px;
+  top: 10px;
+  width: 38px;
+  height: 38px;
+}
+
+.ventana-hombro-derecho .ventana-hombro-derecho__group-6 {
+  position: absolute;
+  left: 10px;
+  top: 59px;
+  width: 80px;
+  height: 90px;
+}
+
+.ventana-hombro-derecho .ventana-hombro-derecho__molestia {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 80px;
+  height: 90px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.ventana-hombro-derecho .ventana-hombro-derecho__ellipse-2-2 {
+  position: absolute;
+  left: -1px;
+  top: -1px;
+  width: 40px;
+  height: 40px;
+}
+
+.ventana-hombro-derecho .ventana-hombro-derecho__ellipse-3-2 {
+  position: absolute;
+  left: 6px;
+  top: 6px;
+  width: 26px;
+  height: 26px;
+  background-color: #079ab3;
+  border-radius: 50%;
+}
+
+.ventana-hombro-derecho .ventana-hombro-derecho__hombroderecho-2 {
+  position: absolute;
+  left: 21px;
+  top: 10px;
+  width: 38px;
+  height: 38px;
+}
+
+.ventana-hombro-derecho .ventana-hombro-derecho__group-5 {
+  position: absolute;
+  left: 140px;
+  top: 59px;
+  width: 80px;
+  height: 90px;
+}
+
+.ventana-hombro-derecho .ventana-hombro-derecho__dolor {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 80px;
+  height: 90px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+  color: #004753;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.ventana-hombro-derecho .ventana-hombro-derecho__ellipse-2-3 {
+  position: absolute;
+  left: -1px;
+  top: -1px;
+  width: 40px;
+  height: 40px;
+}
+
+.ventana-hombro-derecho .ventana-hombro-derecho__ellipse-3-3 {
+  position: absolute;
+  left: 6px;
+  top: 6px;
+  width: 26px;
+  height: 26px;
+  background-color: #004753;
+  border-radius: 50%;
+}
+
+.ventana-hombro-derecho .ventana-hombro-derecho__hombroderecho-3 {
+  position: absolute;
+  left: 21px;
+  top: 10px;
+  width: 38px;
+  height: 38px;
+}
+
+.ventana-hombro-derecho .ventana-hombro-derecho__group-4 {
+  position: absolute;
+  left: 270px;
+  top: 59px;
+  width: 80px;
+  height: 90px;
+}
+
+.ventana-hombro-derecho .ventana-hombro-derecho__union {
+  position: absolute;
+  left: 318.58px;
+  top: 12.58px;
+  width: 20.79px;
+  height: 20.55px;
+}
+
+.ventana-hombro-derecho {
+  position: relative;
+  flex-shrink: 0;
+  width: 362px;
+  height: 159px;
+}
