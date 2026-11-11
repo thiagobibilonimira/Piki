@@ -410,6 +410,8 @@ function signo() {
   seg($("#safeVer"), d => { safeV = d.v; drawSafe(safeV); });
   $("#safeOn").addEventListener("change", e => sb.classList.toggle("is-on", e.target.checked));
   drawSafe("h");
+  /* se vuelve a dibujar si cambia el ancho (girar el celular, achicar la ventana) */
+  addEventListener("resize", () => drawSafe(safeV));
 
   /* Tamaño mínimo: se elige la versión; cada una tiene su mínimo */
   const ms = $("#minStage"), mr = $("#minRange");
@@ -1012,4 +1014,12 @@ if (new URLSearchParams(location.search).get("print") === "largo") {
 }
 const endLogo = $("#endLogo");
 new IntersectionObserver((es, o) => es.forEach(e => { if (e.isIntersecting) { endLogo.classList.add("is-play"); o.disconnect(); } }), { threshold: .5 }).observe(endLogo);
+})();
+
+/* El ancho del contenido también cambia al abrir o cerrar el menú lateral, sin que la ventana cambie:
+   en ese caso avisamos con un "resize" para que se reacomoden la web, el juego, las grillas y el UI kit */
+(() => {
+  const m = document.querySelector("main"); if (!m || !window.ResizeObserver) return;
+  let w = m.clientWidth, t;
+  new ResizeObserver(() => { if (m.clientWidth === w) return; w = m.clientWidth; clearTimeout(t); t = setTimeout(() => dispatchEvent(new Event("resize")), 60); }).observe(m);
 })();

@@ -1994,3 +1994,20 @@ button.uik__st:hover { border-color: var(--celeste); }
 
 /* UI kit: el componente es solo vista, los estados se eligen con los botones */
 .pkc { cursor: default; }
+
+/* ---------- Responsive: ajustes generales ---------- */
+/* el video mantiene su proporción aunque la lista de pasos sea más alta (antes se ensanchaba y tapaba la lista) */
+.ml-feature > .ml-video { align-self: start; width: 100%; min-width: 0; }
+.eco__panel { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+@media (max-width: 720px) { .eco__panel { grid-template-columns: minmax(0, 1fr); padding: 20px; min-height: 0; } }
+
+/* Tabla de grillas en celular: cada fila pasa a ser una tarjeta con sus datos uno debajo del otro */
+@media (max-width: 720px) {
+  .table-scroll .ref-table--stack { min-width: 0; }
+  .ref-table--stack thead { display: none; }
+  .ref-table--stack, .ref-table--stack tbody, .ref-table--stack tr, .ref-table--stack td { display: block; width: 100%; box-sizing: border-box; }
+  .ref-table--stack tr { padding: 10px 0; border-bottom: 1px solid var(--line); }
+  .ref-table--stack td { display: grid; grid-template-columns: 110px 1fr; gap: 10px; border: 0 !important; padding: 5px 14px !important; }
+  .ref-table--stack td::before { content: attr(data-label); font-weight: 600; color: var(--petroleo); font-size: 12px; }
+  .ref-table--stack td:first-child { font-weight: 700; color: var(--petroleo); }
+}
